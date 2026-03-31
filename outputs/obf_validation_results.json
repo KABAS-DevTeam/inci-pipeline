@@ -1,0 +1,99 @@
+{
+  "n_products": 53,
+  "total_ingredients": 1518,
+  "resolved": 1222,
+  "coverage_pct": 80.5,
+  "stage_0_count": 873,
+  "stage_A_count": 245,
+  "stage_B_count": 104,
+  "stage_0_pct": 57.5,
+  "stage_A_pct": 16.1,
+  "stage_B_pct": 6.9,
+  "unresolved_count": 296,
+  "unresolved_pct": 19.5,
+  "skipped_meta_tags": 30,
+  "products_fully_resolved": 25,
+  "products_fully_resolved_pct": 47.2,
+  "top_unresolved": [
+    {
+      "name": "rue royale",
+      "count": 2
+    },
+    {
+      "name": "acrylates",
+      "count": 2
+    },
+    {
+      "name": "c10 30 alkyl acrylate crosspolymer",
+      "count": 2
+    },
+    {
+      "name": "formaldehyde releasers",
+      "count": 1
+    },
+    {
+      "name": "triglycerides caprylique",
+      "count": 1
+    },
+    {
+      "name": "caprique",
+      "count": 1
+    },
+    {
+      "name": "lauryllactylate de sodium",
+      "count": 1
+    },
+    {
+      "name": "d213768",
+      "count": 1
+    },
+    {
+      "name": "hdhdh",
+      "count": 1
+    },
+    {
+      "name": "0639312644",
+      "count": 1
+    },
+    {
+      "name": "peg 6 caprylic",
+      "count": 1
+    },
+    {
+      "name": "capric glycerides",
+      "count": 1
+    },
+    {
+      "name": "ماء",
+      "count": 1
+    },
+    {
+      "name": "صوديوم لوريث سلفات",
+      "count": 1
+    },
+    {
+      "name": "كوكاميد mea",
+      "count": 1
+    },
+    {
+      "name": "صوديوم كلورايد كحول بيهينيل",
+      "count": 1
+    },
+    {
+      "name": "دايميتيكون",
+      "count": 1
+    },
+    {
+      "name": "حمض ميريستيك",
+      "count": 1
+    },
+    {
+      "name": "بولي كواترنيوم",
+      "count": 1
+    },
+    {
+      "name": "جليكول دايستيرات عطر peg",
+      "count": 1
+    }
+  ]
+}

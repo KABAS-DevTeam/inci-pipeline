@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "INCI Pipeline: Automated INCI Normalization and Molecular Enrichment for French-Language Industrial Chemical Documentation"
+version: 1.0.0
+date-released: "2026-03-25"
+url: "https://github.com/KABAS-DevTeam/inci-pipeline"
+license: MIT
+authors:
+  - family-names: "Aroua"
+    given-names: "Abderaouf Haithem"
+    email: "abderaouf.haithem.aroua@kabas-ai.com"
+    alias: "abderaoufhaithem.aroua@univ-khenchela.dz"
+    affiliation: "KABAS; ICOSI Laboratory, Abbes Laghrour University, Khenchela, Algeria"
+    orcid: ""
+  - family-names: "Boukandoura"
+    given-names: "Merouane"
+    affiliation: "KABAS"
+  - family-names: "Brakta"
+    given-names: "Khadija"
+    affiliation: "KABAS"
+  - family-names: "Meziari"
+    given-names: "Redouane"
+    affiliation: "EPE SHYMECA (ENAD)"
+abstract: >
+  A four-stage automated pipeline that converts French-language industrial cosmetic
+  ingredient name strings into machine-learning-ready molecular descriptor matrices.
+  Stage 0 applies a 274-entry domain-specific French trade name synonym dictionary;
+  Stage A applies exact matching against the EU CosIng database (24,094 entries);
+  Stage B applies fuzzy token-sorted Levenshtein matching (threshold ≥ 82);
+  Stage C provides an optional LLM fallback. The pipeline achieves 100% INCI coverage
+  on a 303-ingredient industrial corpus and 80.5% on Open Beauty Facts validation data,
+  producing complete RDKit (208) and Mordred (970) descriptor matrices for 93 unique molecules.
+keywords:
+  - INCI normalization
+  - cheminformatics
+  - French industrial chemistry
+  - molecular descriptors
+  - PubChem
+  - RDKit
+  - Mordred
+  - cosmetics
+  - natural language processing
+  - fuzzy matching
+preferred-citation:
+  type: article
+  title: "Automated INCI Normalization and Molecular Enrichment for French-Language Industrial Chemical Documentation"
+  authors:
+    - family-names: "Aroua"
+      given-names: "Abderaouf Haithem"
+    - family-names: "Boukandoura"
+      given-names: "Merouane"
+    - family-names: "Brakta"
+      given-names: "Khadija"
+    - family-names: "Meziari"
+      given-names: "Redouane"
+  year: 2026
+  journal: "[Journal TBD]"
+  doi: "[DOI TBD]"

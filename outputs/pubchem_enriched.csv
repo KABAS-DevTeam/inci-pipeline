@@ -1,0 +1,381 @@
+inci_name,cas_number,pubchem_cid,canonical_smiles,iupac_name,molecular_formula,molecular_weight,smiles_source,match_method,confidence,notes
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+FORMALDEHYDE,50-00-0,712,C=O,formaldehyde,CH2O,30.026,cid_from_step2,manual_map,high,
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+NONOXYNOL-9,9016-45-9,24756940,COC1=CC(=C(C=C1)OCC2=CC=CC=C2)C=C3C(=O)NC(=S)S3,"(5Z)-5-[(5-methoxy-2-phenylmethoxyphenyl)methylidene]-2-sulfanylidene-1,3-thiazolidin-4-one",C18H15NO3S2,357.5,cid_from_step2,manual_map,high,OCR variant of Nonyl-Phenol Ethoxylé
+SODIUM LAURETH SULFATE,3088-31-1 / 9004-82-4 / 68891-38-3 / 1335-72-4 / 68585-34-2 / 91648-56-5,23682204,CCCCCCCCCCCCOCCOCCOS(=O)(=O)[O-].[Na+],sodium 2-(2-dodecoxyethoxy)ethyl sulfate,C16H33NaO6S,376.5,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'lauryl-ether sulfate de sodium' -> 'SODIUM LAURETH SULFATE'
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,C1=C(C(C(C1O)O)N2C=NC3=C(N=CN=C32)N)CO,"(1S,2R,5R)-5-(6-aminopurin-9-yl)-4-(hydroxymethyl)cyclopent-3-ene-1,2-diol",C11H13N5O3,263.25,cid_from_step2,manual_map,high,Fuzzy match — explicit CID added
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+GLYCERIN,56-81-5,753,C(C(CO)O)O,"propane-1,2,3-triol",C3H8O3,92.09,cid_from_step2,manual_map,high,
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+SODIUM DODECYLBENZENESULFONATE,25155-30-0,23665752,C1COC2=NC3=CC=CC=C3C(=C21)[O-].[Na+],"sodium 2,3-dihydrofuro[2,3-b]quinolin-4-olate",C11H8NNaO2,209.18,cid_from_step2,manual_map,high,
+SODIUM HYDROXIDE,1310-73-2,14798,[OH-].[Na+],sodium hydroxide,HNaO,39.997,cid_from_step2,manual_map,high,NaOH
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+TETRASODIUM EDTA,64-02-8,33040,CCCCOCCCOC(=O)CCOC1=CC(=C(C=C1Cl)Cl)Cl,"3-butoxypropyl 3-(2,4,5-trichlorophenoxy)propanoate",C16H21Cl3O4,383.7,cid_from_step2,manual_map,high,Tetrasodium EDTA assumed; could be disodium
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+PHOSPHONATE COMPOUND,,,,,,,not_applicable,manual_map,high,Generic phosphonate class — CAS depends on specific compound
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+PARFUM,,,,,,,not_applicable,exact_cosing,high,
+STABILIZER (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+PRESERVATIVE (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,Generic preservative — type not specified
+CI 19140,1934-21-0,164825,C1=CC(=CC=C1N=NC2C(=NN(C2=O)C3=CC=C(C=C3)S(=O)(=O)[O-])C(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+],trisodium;5-oxo-1-(4-sulfonatophenyl)-4-[(4-sulfonatophenyl)diazenyl]-4H-pyrazole-3-carboxylate,C16H9N4Na3O9S2,534.4,cid_from_step2,manual_map,high,Tartrazine / FD&C Yellow 5
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+DISODIUM DISTYRYLBIPHENYL DISULFONATE,27344-41-8,25151880,CC1=CC=C(C=C1)S(=O)(=O)NC(C2CO2)C3=CC=CC=C3,4-methyl-N-[(R)-[(2R)-oxiran-2-yl]-phenylmethyl]benzenesulfonamide,C16H17NO3S,303.4,cid_from_step2,manual_map,high,
+DISTYRYLBIPHENYL DISULFONATE,27344-41-8,25151880,CC1=CC=C(C=C1)S(=O)(=O)NC(C2CO2)C3=CC=CC=C3,4-methyl-N-[(R)-[(2R)-oxiran-2-yl]-phenylmethyl]benzenesulfonamide,C16H17NO3S,303.4,cid_from_step2,manual_map,high,OB optical brightener powder
+TRIETHANOLAMINE,102-71-6,7618,C(CO)N(CCO)CCO,2-[bis(2-hydroxyethyl)amino]ethanol,C6H15NO3,149.19,cid_from_step2,manual_map,high,Neutralizing base — assumed TEA
+BUTOXYETHANOL,111-76-2,8057,CCCCCBr,1-bromopentane,C5H11Br,151.04,cid_from_step2,manual_map,high,Butyl glycol
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+ETHYLENE GLYCOL,107-21-1,174,C(CO)O,"ethane-1,2-diol",C2H6O2,62.07,cid_from_step2,manual_map,high,OAT inhibited MEG G13
+ANTIFREEZE (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+CORROSION INHIBITOR (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+COLORANT (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+GLYCERIN,56-81-5,753,C(C(CO)O)O,"propane-1,2,3-triol",C3H8O3,92.09,cid_from_step2,manual_map,high,
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+ETHYLENE GLYCOL,107-21-1,174,C(CO)O,"ethane-1,2-diol",C2H6O2,62.07,cid_from_step2,manual_map,high,OAT inhibited MEG G12
+CORROSION INHIBITOR (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+ETHYLENE GLYCOL,107-21-1,174,C(CO)O,"ethane-1,2-diol",C2H6O2,62.07,cid_from_step2,manual_map,high,Inhibited MEG
+ETHYLENE GLYCOL,107-21-1,174,C(CO)O,"ethane-1,2-diol",C2H6O2,62.07,cid_from_step2,manual_map,high,Mineral inhibited glycol blend
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+NONOXYNOL-9,9016-45-9,24756940,COC1=CC(=C(C=C1)OCC2=CC=CC=C2)C=C3C(=O)NC(=S)S3,"(5Z)-5-[(5-methoxy-2-phenylmethoxyphenyl)methylidene]-2-sulfanylidene-1,3-thiazolidin-4-one",C18H15NO3S2,357.5,cid_from_step2,manual_map,high,OCR variant
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+PARFUM,,,,,,,not_applicable,manual_map,high,
+SULFURIC ACID,7664-93-9,1118,OS(=O)(=O)O,sulfuric acid,H2O4S,98.08,cid_from_step2,manual_map,high,Sulfuric acid + water solution
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+NONOXYNOL-9,9016-45-9,24756940,COC1=CC(=C(C=C1)OCC2=CC=CC=C2)C=C3C(=O)NC(=S)S3,"(5Z)-5-[(5-methoxy-2-phenylmethoxyphenyl)methylidene]-2-sulfanylidene-1,3-thiazolidin-4-one",C18H15NO3S2,357.5,cid_from_step2,manual_map,high,OCR variant
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+SEQUESTERING AGENT (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+PARAFFIN,8002-74-2,6922266,CC1=C(C=C(C=C1)N2CC[NH2+]CC2)C,"1-(3,4-dimethylphenyl)piperazin-4-ium",C12H19N2+,191.29,cid_from_step2,manual_map,high,
+CI 12140,1229-55-6,15552,CCCC(=O)OC1CCC(CC1)[NH+]2CCCCC2.[Cl-],(4-piperidin-1-ium-1-ylcyclohexyl) butanoate chloride,C15H28ClNO2,289.84,cid_from_step2,manual_map,high,Orange II dye
+CI 26105,6226-78-4,24857040,C1CC1C2=C(C(=NO2)CC3=C(C=CC=C3Cl)Cl)COC4=NC(=C(C=C4)NC(=O)C5=CC(=CC=C5)C(=O)O)C(F)(F)F,"3-[[6-[[5-cyclopropyl-3-[(2,6-dichlorophenyl)methyl]-1,2-oxazol-4-yl]methoxy]-2-(trifluoromethyl)-3-pyridinyl]carbamoyl]benzoic acid",C28H20Cl2F3N3O5,606.4,cid_from_step2,manual_map,high,Sudan Brown
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+MICROCRYSTALLINE WAX,63231-60-7,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+OPACIFIER (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+SOLUBILIZER (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+CI 14700,4548-53-2,5360,CC1=C(C=C(C=C1)C(=O)NC2=C3C(=CC(=CC3=C(C=C2)S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])NC(=O)C4=CC(=CC=C4)NC(=O)NC5=CC=CC(=C5)C(=O)NC6=C(C=CC(=C6)C(=O)NC7=C8C(=CC(=CC8=C(C=C7)S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])C.[Na+].[Na+].[Na+].[Na+].[Na+].[Na+],"hexasodium;8-[[4-methyl-3-[[3-[[3-[[2-methyl-5-[(4,6,8-trisulfonatonaphthalen-1-yl)carbamoyl]phenyl]carbamoyl]phenyl]carbamoylamino]benzoyl]amino]benzoyl]amino]naphthalene-1,3,5-trisulfonate",C51H34N6Na6O23S6,1429.2,cid_from_step2,manual_map,high,Food Red 1 / Ponceau
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+HYDROCHLORIC ACID,7647-01-0,313,Cl,chlorane,ClH,36.46,cid_from_step2,manual_map,high,
+NONOXYNOL-9,9016-45-9,24756940,COC1=CC(=C(C=C1)OCC2=CC=CC=C2)C=C3C(=O)NC(=S)S3,"(5Z)-5-[(5-methoxy-2-phenylmethoxyphenyl)methylidene]-2-sulfanylidene-1,3-thiazolidin-4-one",C18H15NO3S2,357.5,cid_from_step2,manual_map,high,OCR variant
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+SODIUM HYPOCHLORITE,7681-52-9,23665763,OS(=O)[O-].[Na+],sodium hydrogen sulfite,HNaO3S,104.06,cid_from_step2,manual_map,high,Concentrated NaOCl
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+SODIUM HYPOCHLORITE,7681-52-9,23665760,[O-]Cl.[Na+],sodium hypochlorite,ClNaO,74.44,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'hypochlorite de sodium. eau' -> 'SODIUM HYPOCHLORITE'
+COCONUT ACID,67701-05-7,5365679,CC(=O)CCCC=CCC=CCCCCCCCC(=O)OC,"methyl (9Z,12Z)-17-oxooctadeca-9,12-dienoate",C19H32O3,308.5,cid_from_step2,manual_map,high,Mixed coconut fatty acids
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+PARFUM,,,,,,,not_applicable,manual_map,high,
+SODIUM HYDROXIDE,1310-73-2,14798,[OH-].[Na+],sodium hydroxide,HNaO,39.997,cid_from_step2,manual_map,high,NaOH
+STEARIC ACID,57-11-4,5281,CCCCCCCCCCCCCCCCCC(=O)O,octadecanoic acid,C18H36O2,284.5,cid_from_step2,manual_map,high,Double Pression grade
+COCONUT ACID,67701-05-7,5365679,CC(=O)CCCC=CCC=CCCCCCCCC(=O)OC,"methyl (9Z,12Z)-17-oxooctadeca-9,12-dienoate",C19H32O3,308.5,cid_from_step2,manual_map,high,Mixed coconut fatty acids
+SODIUM TETRABORATE,1303-96-4,10219853,B1(OB2OB(OB(O1)O2)[O-])[O-].[Na+].[Na+],"disodium;3,7-dioxido-2,4,6,8,9-pentaoxa-1,3,5,7-tetraborabicyclo[3.3.1]nonane",B4Na2O7,201.2,cid_from_step2,manual_map,high,
+POTASSIUM CHLORIDE,7447-40-7,4873,[Cl-].[K+],potassium chloride,ClK,74.55,cid_from_step2,manual_map,high,
+SODIUM SILICATE,1344-09-8,3423151,C1CC(OC1)N2C=C(C(=O)N(C2=O)CC3=CC=C(C=C3)[N+](=O)[O-])F,"5-fluoro-3-[(4-nitrophenyl)methyl]-1-(oxolan-2-yl)pyrimidine-2,4-dione",C15H14FN3O5,335.29,cid_from_step2,manual_map,high,OCR typo of silicate de soude
+POTASSIUM HYDROXIDE,1310-58-3,14797,[OH-].[K+],potassium hydroxide,HKO,56.106,cid_from_step2,manual_map,high,KOH
+SODIUM HYDROXIDE,1310-73-2,14798,[OH-].[Na+],sodium hydroxide,HNaO,39.997,cid_from_step2,manual_map,high,NaOH
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+ISOPROPYL MYRISTATE,110-27-0,8042,CCCCCCCCCCCCCC(=O)OC(C)C,propan-2-yl tetradecanoate,C17H34O2,270.5,cid_from_step2,manual_map,high,
+BUTYROSPERMUM PARKII BUTTER,91080-23-8,5366085,C1=CC=C(C(=C1)C(=CC2=CC=C(C=C2)C(F)(F)F)C(=O)O)N,(Z)-2-(2-aminophenyl)-3-[4-(trifluoromethyl)phenyl]prop-2-enoic acid,C16H12F3NO2,307.27,cid_from_step2,manual_map,high,Shea butter
+CALCIUM CARBONATE,471-34-1,10112,C(=O)([O-])[O-].[Ca+2],calcium carbonate,CCaO3,100.09,cid_from_step2,manual_map,high,
+CALCIUM THIOGLYCOLATE,814-71-1,13141,C(C(=O)[O-])S.C(C(=O)[O-])S.[Ca+2],calcium bis(2-sulfanylacetate),C4H6CaO4S2,222.3,cas_lookup,fuzzy_cosing,high,fuzzy matched 'thiolycolate de calcium' -> 'CALCIUM THIOGLYCOLATE'
+PARFUM,,,,,,,not_applicable,manual_map,high,
+MAGNESIUM SILICATE,1343-88-0,23924789,CC12CCC3(O1)C(C2C(=O)N(CC=C)C4=CC=CC=C4)C(=O)N(C3C(=O)N(CC=C)C5=CC=C(C=C5)Cl)CCCCCCO,"(5R,6R,7R)-2-N-(4-chlorophenyl)-3-(6-hydroxyhexyl)-7-methyl-4-oxo-6-N-phenyl-2-N,6-N-bis(prop-2-enyl)-10-oxa-3-azatricyclo[5.2.1.01,5]decane-2,6-dicarboxamide",C35H42ClN3O5,620.2,cid_from_step2,manual_map,high,
+POTASSIUM CHLORIDE,7447-40-7,4873,[Cl-].[K+],potassium chloride,ClK,74.55,cid_from_step2,manual_map,high,
+ALCOHOL DENAT.,64-17-5,702,CCO,ethanol,C2H6O,46.07,cid_from_step2,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+ALCOHOL DENAT.,64-17-5,702,CCO,ethanol,C2H6O,46.07,cid_from_step2,manual_map,high,
+CARBOMER,9003-01-4,2723949,CC(=S)N,ethanethioamide,C2H5NS,75.14,cid_from_step2,manual_map,high,
+AMP (AMINOMETHYL PROPANOL),124-68-5,8572,C1=CC=C(C=C1)C(=O)C2=C(C=C(C=C2)O)O,"(2,4-dihydroxyphenyl)-phenylmethanone",C13H10O3,214.22,cid_from_step2,manual_map,high,AMP-95 = 2-amino-2-methyl-1-propanol 95%
+ANTIMICROBIAL AGENT (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+AMP (AMINOMETHYL PROPANOL),124-68-5,8572,C1=CC=C(C=C1)C(=O)C2=C(C=C(C=C2)O)O,"(2,4-dihydroxyphenyl)-phenylmethanone",C13H10O3,214.22,cid_from_step2,manual_map,high,AMP-95 = 2-amino-2-methyl-1-propanol 95%
+GLYCERIN,56-81-5,753,C(C(CO)O)O,"propane-1,2,3-triol",C3H8O3,92.09,cid_from_step2,manual_map,high,Pharmaceutical grade
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+ISOPROPYL ALCOHOL,67-63-0,3776,CC(C)O,propan-2-ol,C3H8O,60.10,cid_from_step2,manual_map,high,IPA
+PROPYLENE GLYCOL,57-55-6,1030,CC(CO)O,"propane-1,2-diol",C3H8O2,76.09,cas_lookup,exact_cosing,high,
+ISOPROPYL ALCOHOL,67-63-0,3776,CC(C)O,propan-2-ol,C3H8O,60.10,cid_from_step2,manual_map,high,IPA
+GLYCINE,56-40-6,750,C(C(=O)O)N,2-aminoacetic acid,C2H5NO2,75.07,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'glycétine' -> 'GLYCINE'
+TRICLOCARBAN,101-20-2,7547,C1=CC(=CC=C1NC(=O)NC2=CC(=C(C=C2)Cl)Cl)Cl,"1-(4-chlorophenyl)-3-(3,4-dichlorophenyl)urea",C13H9Cl3N2O,315.6,cid_from_step2,manual_map,high,
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+SODIUM CHLORIDE,7647-14-5,5234,[Na+].[Cl-],sodium chloride,ClNa,58.44,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'chlorure de sodium' -> 'SODIUM CHLORIDE'
+SODIUM LAURETH SULFATE,9004-82-4,23665763,OS(=O)[O-].[Na+],sodium hydrogen sulfite,HNaO3S,104.06,cid_from_step2,manual_map,high,OCR typo of lauryl
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,C1=C(C(C(C1O)O)N2C=NC3=C(N=CN=C32)N)CO,"(1S,2R,5R)-5-(6-aminopurin-9-yl)-4-(hydroxymethyl)cyclopent-3-ene-1,2-diol",C11H13N5O3,263.25,cid_from_step2,manual_map,high,
+COCAMIDE DEA,61791-31-9,8053426,CCOC(=O)C1CCCN(C1)CCCCOC2=CC=C(C=C2)F,ethyl (3R)-1-[4-(4-fluorophenoxy)butyl]piperidine-3-carboxylate,C18H26FNO3,323.4,cid_from_step2,manual_map,high,Exact CosIng match — explicit CID added
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,CC(C)C(C(=O)NC(C(C)C)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(CC2=CC=C(C=C2)O)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CCSC)NC(=O)CNC(=O)C5CCCN5C(=O)C(C)N,,C70H105N19O18S,1532.8,cid_from_step2,manual_map,high,
+SODIUM CHLORIDE,7647-14-5,5234,[Na+].[Cl-],sodium chloride,ClNa,58.44,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'chlorure de sodium' -> 'SODIUM CHLORIDE'
+TRICLOSAN,3380-34-5,5564,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,"5-chloro-2-(2,4-dichlorophenoxy)phenol",C12H7Cl3O2,289.5,cid_from_step2,manual_map,high,
+PRESERVATIVE (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,fuzzy_cosing,high,fuzzy matched 'parfum.' -> 'PARFUM'
+SODIUM LAURETH SULFATE,9004-82-4,23665763,OS(=O)[O-].[Na+],sodium hydrogen sulfite,HNaO3S,104.06,cid_from_step2,manual_map,high,
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,CC(C)C(C(=O)NC(C(C)C)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(CC2=CC=C(C=C2)O)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CCSC)NC(=O)CNC(=O)C5CCCN5C(=O)C(C)N,,C70H105N19O18S,1532.8,cid_from_step2,manual_map,high,
+TRICLOSAN,3380-34-5,5564,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,"5-chloro-2-(2,4-dichlorophenoxy)phenol",C12H7Cl3O2,289.5,cid_from_step2,manual_map,high,Trade name Irgasan DP300
+PARFUM,,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+SODIUM LAURYL SULFATE,151-21-3,3423265,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,C12H25NaO4S,288.38,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'lauryl éther sulfate de sodium' -> 'SODIUM LAURYL SULFATE'
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,CC(C)C(C(=O)NC(C(C)C)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(CC2=CC=C(C=C2)O)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CCSC)NC(=O)CNC(=O)C5CCCN5C(=O)C(C)N,,C70H105N19O18S,1532.8,cid_from_step2,manual_map,high,
+TRICLOSAN,3380-34-5,5564,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,"5-chloro-2-(2,4-dichlorophenoxy)phenol",C12H7Cl3O2,289.5,cid_from_step2,manual_map,high,
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,C1=C(C(C(C1O)O)N2C=NC3=C(N=CN=C32)N)CO,"(1S,2R,5R)-5-(6-aminopurin-9-yl)-4-(hydroxymethyl)cyclopent-3-ene-1,2-diol",C11H13N5O3,263.25,cid_from_step2,manual_map,high,Dehyton AB30 = CAPB 30%
+COCAMIDE DEA,61791-31-9,8053426,CCOC(=O)C1CCCN(C1)CCCCOC2=CC=C(C=C2)F,ethyl (3R)-1-[4-(4-fluorophenoxy)butyl]piperidine-3-carboxylate,C18H26FNO3,323.4,cid_from_step2,manual_map,high,Comperlan COD = Cocamide DEA
+COCO-GLUCOSIDE,141464-42-8,16136216,CC(C)C(C(=O)NC(C(C)C)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(CC2=CC=C(C=C2)O)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CCSC)NC(=O)CNC(=O)C5CCCN5C(=O)C(C)N,,C70H105N19O18S,1532.8,cid_from_step2,manual_map,high,Plantacare 818 = Coco-glucoside
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,CC(C)C(C(=O)NC(C(C)C)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(CC2=CC=C(C=C2)O)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CCSC)NC(=O)CNC(=O)C5CCCN5C(=O)C(C)N,,C70H105N19O18S,1532.8,cid_from_step2,manual_map,high,
+PEG-7 GLYCERYL COCOATE,68201-46-7,25152395,CC(C)(C)C1=C(C=C(C=C1)C(=O)N2C(C(CC2(CN3C=CC=N3)C(=O)O)(CN4C=C(N=N4)C5=CC=CC=C5)F)C6=NC=CS6)OC,"1-(4-tert-butyl-3-methoxybenzoyl)-4-fluoro-4-[(4-phenyltriazol-1-yl)methyl]-2-(pyrazol-1-ylmethyl)-5-(1,3-thiazol-2-yl)pyrrolidine-2-carboxylic acid",C33H34FN7O4S,643.7,cid_from_step2,manual_map,high,Cetiol HE = PEG-7 glyceryl cocoate
+TETRASODIUM EDTA,64-02-8,33040,CCCCOCCCOC(=O)CCOC1=CC(=C(C=C1Cl)Cl)Cl,"3-butoxypropyl 3-(2,4,5-trichlorophenoxy)propanoate",C16H21Cl3O4,383.7,cid_from_step2,manual_map,high,Tetrasodium EDTA assumed; could be disodium
+PRESERVATIVE (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+CITRIC ACID,77-92-9,311,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,"2-hydroxypropane-1,2,3-tricarboxylic acid",C6H8O7,192.12,cid_from_step2,manual_map,high,
+COCO-GLUCOSIDE,141464-42-8,16136216,CC(C)C(C(=O)NC(C(C)C)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(CC2=CC=C(C=C2)O)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CCSC)NC(=O)CNC(=O)C5CCCN5C(=O)C(C)N,,C70H105N19O18S,1532.8,cid_from_step2,manual_map,high,Plantacare 818 = Coco-glucoside
+POLYQUATERNIUM-7,26590-05-6,16219946,C(C[Se][Se]CCN)N.Cl,2-(2-aminoethyldiselanyl)ethanamine;hydrochloride,C4H13ClN2Se2,282.6,cid_from_step2,manual_map,high,Merquat 550
+POLYQUATERNIUM-10,68610-92-4,16217556,CC(=O)OC(=O)C,"(2,2,2-trideuterioacetyl) 2,2,2-trideuterioacetate",C4H6O3,110.11,cid_from_step2,manual_map,high,PQ-10 = hydroxyethyl cellulose quat
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+GLYCOL DISTEARATE,627-83-8,69988,COC1=C(C=CC(=C1)O)O,"2-methoxybenzene-1,4-diol",C7H8O3,140.14,cid_from_step2,manual_map,high,Pearlizing agent
+GLYCOL DISTEARATE,627-83-8,69988,COC1=C(C=CC(=C1)O)O,"2-methoxybenzene-1,4-diol",C7H8O3,140.14,cid_from_step2,manual_map,high,Opacifying agent; may vary by product
+PARFUM,,,,,,,not_applicable,manual_map,high,
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,C1=C(C(C(C1O)O)N2C=NC3=C(N=CN=C32)N)CO,"(1S,2R,5R)-5-(6-aminopurin-9-yl)-4-(hydroxymethyl)cyclopent-3-ene-1,2-diol",C11H13N5O3,263.25,cid_from_step2,manual_map,high,
+POLYQUATERNIUM-7,26590-05-6,16219946,C(C[Se][Se]CCN)N.Cl,2-(2-aminoethyldiselanyl)ethanamine;hydrochloride,C4H13ClN2Se2,282.6,cid_from_step2,manual_map,high,
+POLYQUATERNIUM-10,68610-92-4,16217556,CC(=O)OC(=O)C,"(2,2,2-trideuterioacetyl) 2,2,2-trideuterioacetate",C4H6O3,110.11,cid_from_step2,manual_map,high,
+PANTHENOL,81-13-0,131204,CC(C)(CO)C(C(=O)NCCCO)O,"(2R)-2,4-dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide",C9H19NO4,205.25,cid_from_step2,manual_map,high,OCR variant
+GLYCOL DISTEARATE,627-83-8,69988,COC1=C(C=CC(=C1)O)O,"2-methoxybenzene-1,4-diol",C7H8O3,140.14,cid_from_step2,manual_map,high,Pearlizing agent
+GLYCOL DISTEARATE,627-83-8,69988,COC1=C(C=CC(=C1)O)O,"2-methoxybenzene-1,4-diol",C7H8O3,140.14,cid_from_step2,manual_map,high,Opacifying agent; may vary by product
+PARFUM,,,,,,,not_applicable,manual_map,high,Fragrance base — proprietary blend
+CITRIC ACID,77-92-9,311,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,"2-hydroxypropane-1,2,3-tricarboxylic acid",C6H8O7,192.12,cid_from_step2,manual_map,high,
+SODIUM TETRABORATE,1303-96-4,10219853,B1(OB2OB(OB(O1)O2)[O-])[O-].[Na+].[Na+],"disodium;3,7-dioxido-2,4,6,8,9-pentaoxa-1,3,5,7-tetraborabicyclo[3.3.1]nonane",B4Na2O7,201.2,cid_from_step2,manual_map,high,
+PROPYLENE GLYCOL,57-55-6,1030,CC(CO)O,"propane-1,2-diol",C3H8O2,76.09,cid_from_step2,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+ACRYLATES COPOLYMER,25133-97-5,15939647,C1C2C(O2)C(C(O1)OCC3=CC=CC=C3)O,"(1S,4S,5S,6R)-4-phenylmethoxy-3,7-dioxabicyclo[4.1.0]heptan-5-ol",C12H14O4,222.24,cid_from_step2,manual_map,high,
+ACRYLATES COPOLYMER,25133-97-5,15939647,C1C2C(O2)C(C(O1)OCC3=CC=CC=C3)O,"(1S,4S,5S,6R)-4-phenylmethoxy-3,7-dioxabicyclo[4.1.0]heptan-5-ol",C12H14O4,222.24,cid_from_step2,manual_map,high,
+CETEARETH-25,68439-49-6,23674612,[Li+].[BH3-]C1CCCC1C,"lithium [(1S,2R)-2-methylcyclopentyl]boranuide",C6H14BLi,104.0,cid_from_step2,manual_map,high,Lanoxal 75 = ceteareth emulsifier
+PANTHENOL,81-13-0,131204,CC(C)(CO)C(C(=O)NCCCO)O,"(2R)-2,4-dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide",C9H19NO4,205.25,cid_from_step2,manual_map,high,D-Panthenol
+PROPELLANT (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+TRICLOSAN,3380-34-5,5564,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,"5-chloro-2-(2,4-dichlorophenoxy)phenol",C12H7Cl3O2,289.5,cid_from_step2,manual_map,high,Trade name Irgasan DP300
+PARFUM,,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+ALCOHOL DENAT.,64-17-5,702,CCO,ethanol,C2H6O,46.07,cid_from_step2,manual_map,high,
+PROPYLENE GLYCOL,57-55-6,1030,CC(CO)O,"propane-1,2-diol",C3H8O2,76.09,cid_from_step2,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+PROPELLANT (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+PROPELLANT (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+TRICLOSAN,3380-34-5,5564,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,"5-chloro-2-(2,4-dichlorophenoxy)phenol",C12H7Cl3O2,289.5,cid_from_step2,manual_map,high,Irgasan DP300
+PARFUM,,,,,,,not_applicable,manual_map,high,
+CELLULOSE GUM,9000-11-7,6420601,C1=CC(=CC=C1N2C(=O)C3=C(NC2=O)N=CN3)Br,"1-(4-bromophenyl)-3,7-dihydropurine-2,6-dione",C11H7BrN4O2,307.10,cid_from_step2,manual_map,high,CMC
+METHYLPARABEN,99-76-3,7456,COC(=O)C1=CC=C(C=C1)O,methyl 4-hydroxybenzoate,C8H8O3,152.15,cid_from_step2,manual_map,high,
+PROPYLPARABEN,94-13-3,7175,CCCOC(=O)C1=CC=C(C=C1)O,propyl 4-hydroxybenzoate,C10H12O3,180.20,cid_from_step2,manual_map,high,
+SODIUM SACCHARIN,128-44-9 / 6155-57-3,656582,C1=CC=C2C(=C1)C(=O)[N-]S2(=O)=O.[Na+],"sodium 1,1-dioxo-1,2-benzothiazol-2-id-3-one",C7H4NNaO3S,205.17,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'saccharinate de sodium' -> 'SODIUM SACCHARIN'
+SODIUM LAURYL SULFATE,151-21-3,3423265,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,C12H25NaO4S,288.38,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'lauryl sulfate de sodium pur' -> 'SODIUM LAURYL SULFATE'
+PEPPERMINT FLAVOR,,,,,,,not_applicable,manual_map,high,
+CI 42051,3536-49-0,77073,CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=CC(=C(C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])O.CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=CC(=C(C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Ca+2],"calcium bis(4-[[4-(diethylamino)phenyl]-(4-diethylazaniumylidenecyclohexa-2,5-dien-1-ylidene)methyl]-6-hydroxybenzene-1,3-disulfonate)",C54H62CaN4O14S4,1159.4,cid_from_step2,manual_map,high,
+SODIUM MONOFLUOROPHOSPHATE,10163-15-2,24948,[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ce+3],cerium(3+) trinitrate,CeN3O9,326.13,cid_from_step2,manual_map,high,
+METHYLPARABEN,99-76-3,7456,COC(=O)C1=CC=C(C=C1)O,methyl 4-hydroxybenzoate,C8H8O3,152.15,cid_from_step2,manual_map,high,
+PROPYLPARABEN,94-13-3,7175,CCCOC(=O)C1=CC=C(C=C1)O,propyl 4-hydroxybenzoate,C10H12O3,180.20,cid_from_step2,manual_map,high,
+SODIUM SACCHARIN,128-44-9 / 6155-57-3,656582,C1=CC=C2C(=C1)C(=O)[N-]S2(=O)=O.[Na+],"sodium 1,1-dioxo-1,2-benzothiazol-2-id-3-one",C7H4NNaO3S,205.17,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'saccharinate de sodium' -> 'SODIUM SACCHARIN'
+SODIUM HYDROXIDE,1310-73-2,14798,[OH-].[Na+],sodium hydroxide,HNaO,39.997,cid_from_step2,manual_map,high,OCR typo of soude caustique
+CELLULOSE GUM,9000-11-7,6420601,C1=CC(=CC=C1N2C(=O)C3=C(NC2=O)N=CN3)Br,"1-(4-bromophenyl)-3,7-dihydropurine-2,6-dione",C11H7BrN4O2,307.10,cid_from_step2,manual_map,high,CMC
+SODIUM LAURYL SULFATE,151-21-3,3423265,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],sodium dodecyl sulfate,C12H25NaO4S,288.38,cid_from_step2,manual_map,high,Empicol LX 95 = SLS 95%
+HYDRATED SILICA,7699-41-4,6124190,CC1=CC(=C(C=C1)C)C(=C2C(N(C(=O)C2=O)C3=NC4=C(S3)C=C(C=C4)F)C5=CC(=CC=C5)OC6=CC=CC=C6)O,"(4E)-4-[(2,5-dimethylphenyl)-hydroxymethylidene]-1-(6-fluoro-1,3-benzothiazol-2-yl)-5-(3-phenoxyphenyl)pyrrolidine-2,3-dione",C32H23FN2O4S,550.6,cid_from_step2,manual_map,high,
+PEPPERMINT FLAVOR,,,,,,,not_applicable,manual_map,high,Flavor ingredient — no single CAS
+TITANIUM DIOXIDE,13463-67-7,26042,O=[Ti]=O,dioxotitanium,O2Ti,79.866,cid_from_step2,manual_map,high,
+ALLANTOIN,97-59-6,204,C1(C(=O)NC(=O)N1)NC(=O)N,"(2,5-dioxoimidazolidin-4-yl)urea",C4H6N4O3,158.12,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'allantoïne' -> 'ALLANTOIN'
+CELLULOSE GUM,9000-11-7,6420601,C1=CC(=CC=C1N2C(=O)C3=C(NC2=O)N=CN3)Br,"1-(4-bromophenyl)-3,7-dihydropurine-2,6-dione",C11H7BrN4O2,307.10,cid_from_step2,manual_map,high,CMC
+PARFUM,,,,,,,not_applicable,manual_map,high,Aromatic oil — fragrance ingredient
+ALUMINA,1344-28-1,9989226,[O-2].[O-2].[O-2].[Al+3].[Al+3],dialuminum;tris(oxygen(2-)),Al2O3,101.961,cid_from_step2,manual_map,high,Al2O3·3H2O abrasive
+TITANIUM DIOXIDE,13463-67-7,26042,O=[Ti]=O,dioxotitanium,O2Ti,79.866,cid_from_step2,manual_map,high,
+SORBITOL,50-70-4,5780,C(C(C(C(C(CO)O)O)O)O)O,"(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol",C6H14O6,182.17,cid_from_step2,manual_map,high,
+SORBITOL,50-70-4,5780,C(C(C(C(C(CO)O)O)O)O)O,"(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol",C6H14O6,182.17,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'sorbitol a' -> 'SORBITOL'
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+TOOTHPASTE FLAVOR,,,,,,,not_applicable,manual_map,high,
+SILICA,7631-86-9,24281,C(CC(=O)NC(CCC(=O)C1N=N1)C(=O)NC(CCC(=O)C2N=N2)C(=O)O)C(C(=O)O)N,"(2S)-2-amino-5-[[(2S)-1-[[(1S)-1-carboxy-4-(3H-diazirin-3-yl)-4-oxobutyl]amino]-5-(3H-diazirin-3-yl)-1,5-dioxopentan-2-yl]amino]-5-oxopentanoic acid",C17H23N7O8,453.4,cid_from_step2,manual_map,high,Thickening silica
+CETEARYL ALCOHOL,67762-27-0,8936,CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)C(=O)OC)CC)OC)C(=O)OC)O,"dimethyl (1R,9R,10R,11R,12S,19S)-12-ethyl-4-[(13S,17S)-17-ethyl-17-hydroxy-13-methoxycarbonyl-1,11-diazatetracyclo[13.3.1.04,12.05,10]nonadeca-4(12),5,7,9-tetraen-13-yl]-10-hydroxy-5-methoxy-8-methyl-8,16-diazapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10,11-dicarboxylate",C46H58N4O9,811.0,cid_from_step2,manual_map,high,OCR typo Lanette O
+GLYCERYL STEARATE (AND) PEG-100 STEARATE,31566-31-1,5283468,CCCCCCCCC=CCCCCCCCC(=O)OCC(CO)O,"2,3-dihydroxypropyl (Z)-octadec-9-enoate",C21H40O4,356.5,cid_from_step2,manual_map,high,
+QUATERNIUM-18,61789-80-8,9570420,C1COCCN1N=CC(=O)C2=CC=C(C=C2)C3=CC=CC=C3,(2E)-2-morpholin-4-ylimino-1-(4-phenylphenyl)ethanone,C18H18N2O2,294.3,cid_from_step2,manual_map,high,Dehyquart A = quaternary ammonium surfactant
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+CETEARYL ALCOHOL,67762-27-0,8936,CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)C(=O)OC)CC)OC)C(=O)OC)O,"dimethyl (1R,9R,10R,11R,12S,19S)-12-ethyl-4-[(13S,17S)-17-ethyl-17-hydroxy-13-methoxycarbonyl-1,11-diazatetracyclo[13.3.1.04,12.05,10]nonadeca-4(12),5,7,9-tetraen-13-yl]-10-hydroxy-5-methoxy-8-methyl-8,16-diazapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10,11-dicarboxylate",C46H58N4O9,811.0,cid_from_step2,manual_map,high,Lanette O = cetearyl alcohol
+CETEARETH-12,68439-49-6,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,Emulgin B1 = ceteareth-12
+GLYCERYL STEARATE (AND) PEG-100 STEARATE,31566-31-1,5283468,CCCCCCCCC=CCCCCCCCC(=O)OCC(CO)O,"2,3-dihydroxypropyl (Z)-octadec-9-enoate",C21H40O4,356.5,cid_from_step2,manual_map,high,
+QUATERNIUM-18,61789-80-8,9570420,C1COCCN1N=CC(=O)C2=CC=C(C=C2)C3=CC=CC=C3,(2E)-2-morpholin-4-ylimino-1-(4-phenylphenyl)ethanone,C18H18N2O2,294.3,cid_from_step2,manual_map,high,OCR typo of Dehyquart A
+TRIETHANOLAMINE,102-71-6,7618,C(CO)N(CCO)CCO,2-[bis(2-hydroxyethyl)amino]ethanol,C6H15NO3,149.19,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'triéthanolamine à' -> 'TRIETHANOLAMINE'
+HYDROGEN PEROXIDE,7722-84-1,763,C(C(=O)O)N=C(N)N,2-(diaminomethylideneamino)acetic acid,C3H7N3O2,117.11,cid_from_step2,manual_map,high,
+OXYQUINOLINE SULFATE,134-31-6,517000,C1=CC2=C(C(=C1)O)N=CC=C2.C1=CC2=C(C(=C1)O)N=CC=C2.OS(=O)(=O)O,bis(quinolin-8-ol);sulfuric acid,C18H16N2O6S,388.4,cas_lookup,exact_cosing,high,
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+NONOXYNOL-9,9016-45-9,24756940,COC1=CC(=C(C=C1)OCC2=CC=CC=C2)C=C3C(=O)NC(=S)S3,"(5Z)-5-[(5-methoxy-2-phenylmethoxyphenyl)methylidene]-2-sulfanylidene-1,3-thiazolidin-4-one",C18H15NO3S2,357.5,cid_from_step2,manual_map,high,Nonylphenol ethoxylate 9 EO
+TRIETHANOLAMINE,102-71-6,7618,C(CO)N(CCO)CCO,2-[bis(2-hydroxyethyl)amino]ethanol,C6H15NO3,149.19,cid_from_step2,manual_map,high,OCR typo
+PARFUM,,,,,,,not_applicable,manual_map,high,
+CI 19140,1934-21-0,164825,C1=CC(=CC=C1N=NC2C(=NN(C2=O)C3=CC=C(C=C3)S(=O)(=O)[O-])C(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+],trisodium;5-oxo-1-(4-sulfonatophenyl)-4-[(4-sulfonatophenyl)diazenyl]-4H-pyrazole-3-carboxylate,C16H9N4Na3O9S2,534.4,cid_from_step2,manual_map,high,OCR typo
+FORMALDEHYDE,50-00-0,712,C=O,formaldehyde,CH2O,30.026,cid_from_step2,manual_map,high,Formol = 37% formaldehyde solution
+DIMETHICONE,9006-65-9,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,
+PROPYLENE GLYCOL,57-55-6,1030,CC(CO)O,"propane-1,2-diol",C3H8O2,76.09,cid_from_step2,manual_map,high,Mono Propylene Glycol
+ALCOHOL DENAT.,64-17-5,702,CCO,ethanol,C2H6O,46.07,cid_from_step2,manual_map,high,
+SODIUM LAURETH SULFATE,9004-82-4,23665763,OS(=O)[O-].[Na+],sodium hydrogen sulfite,HNaO3S,104.06,cid_from_step2,manual_map,high,LES-Na 70% solution
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,C1=C(C(C(C1O)O)N2C=NC3=C(N=CN=C32)N)CO,"(1S,2R,5R)-5-(6-aminopurin-9-yl)-4-(hydroxymethyl)cyclopent-3-ene-1,2-diol",C11H13N5O3,263.25,cid_from_step2,manual_map,high,Assumed CAPB; confirm
+BUTOXYETHANOL,111-76-2,8057,CCCCCBr,1-bromopentane,C5H11Br,151.04,cid_from_step2,manual_map,high,Butyl glycol / Butyl cellosolve
+TRISODIUM PHOSPHATE,7601-54-9,24455,[O-]P(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+],pentasodium;[oxido(phosphonatooxy)phosphoryl] phosphate,Na5O10P3,367.86,cid_from_step2,manual_map,high,
+SODIUM METASILICATE,6834-92-0,23792,CC[NH+](CCCl)CC1=CSC2=C1C=C(C=C2)Br.[Cl-],(5-bromo-1-benzothiophen-3-yl)methyl-(2-chloroethyl)-ethylazanium chloride,C13H16BrCl2NS,369.1,cid_from_step2,manual_map,high,
+CI 16129,3257-28-1,25151780,CC1=CC(=CC(=C1)OS(=O)(=O)C2=CC=CC=C2)OCCC[N+]3=CC=C(C=C3)N,[3-[3-(4-aminopyridin-1-ium-1-yl)propoxy]-5-methylphenyl] benzenesulfonate,C21H23N2O4S+,399.5,cid_from_step2,manual_map,high,
+SODIUM HYDROXIDE,1310-73-2,14798,[OH-].[Na+],sodium hydroxide,HNaO,39.997,cid_from_step2,manual_map,high,
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,C1=C(C(C(C1O)O)N2C=NC3=C(N=CN=C32)N)CO,"(1S,2R,5R)-5-(6-aminopurin-9-yl)-4-(hydroxymethyl)cyclopent-3-ene-1,2-diol",C11H13N5O3,263.25,cid_from_step2,manual_map,high,Assumed CAPB; confirm
+ALCOHOL DENAT.,64-17-5,702,CCO,ethanol,C2H6O,46.07,cid_from_step2,manual_map,high,Emulcool 64% = denatured alcohol base
+SODIUM DODECYLBENZENESULFONATE,25155-30-0,23665752,C1COC2=NC3=CC=CC=C3C(=C21)[O-].[Na+],"sodium 2,3-dihydrofuro[2,3-b]quinolin-4-olate",C11H8NNaO2,209.18,cid_from_step2,manual_map,high,DDBSH = dodecylbenzene sulfonate
+DETERGENT BASE (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,Blend — composition unknown
+BUTOXYETHANOL,111-76-2,8057,CCCCCBr,1-bromopentane,C5H11Br,151.04,cid_from_step2,manual_map,high,Butyl glycol
+SODIUM METASILICATE,6834-92-0,23792,CC[NH+](CCCl)CC1=CSC2=C1C=C(C=C2)Br.[Cl-],(5-bromo-1-benzothiophen-3-yl)methyl-(2-chloroethyl)-ethylazanium chloride,C13H16BrCl2NS,369.1,cid_from_step2,manual_map,high,
+TETRASODIUM EDTA,64-02-8,33040,CCCCOCCCOC(=O)CCOC1=CC(=C(C=C1Cl)Cl)Cl,"3-butoxypropyl 3-(2,4,5-trichlorophenoxy)propanoate",C16H21Cl3O4,383.7,cid_from_step2,manual_map,high,
+SODIUM HYDROXIDE,1310-73-2,14798,[OH-].[Na+],sodium hydroxide,HNaO,39.997,cid_from_step2,manual_map,high,
+NONOXYNOL-7,9016-45-9,24756940,COC1=CC(=C(C=C1)OCC2=CC=CC=C2)C=C3C(=O)NC(=S)S3,"(5Z)-5-[(5-methoxy-2-phenylmethoxyphenyl)methylidene]-2-sulfanylidene-1,3-thiazolidin-4-one",C18H15NO3S2,357.5,cid_from_step2,manual_map,high,Nonylphenol ethoxylate 7 EO
+SORBITOL,50-70-4,5780,C(C(C(C(C(CO)O)O)O)O)O,"(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol",C6H14O6,182.17,cid_from_step2,manual_map,high,
+SODIUM CHLORIDE,7647-14-5,5234,[Na+].[Cl-],sodium chloride,ClNa,58.44,cid_from_step2,manual_map,high,
+DIMETHICONE,9006-65-9,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,Antifoam = silicone dimethicone assumed
+SODIUM LAURETH SULFATE,9004-82-4,23665763,OS(=O)[O-].[Na+],sodium hydrogen sulfite,HNaO3S,104.06,cid_from_step2,manual_map,high,
+BENZALKONIUM CHLORIDE,8001-54-5,5974536,COC(=O)C(=NNC1=CC=C(C=C1)Br)C(=O)CCl,methyl (2E)-2-[(4-bromophenyl)hydrazinylidene]-4-chloro-3-oxobutanoate,C11H10BrClN2O3,333.56,cid_from_step2,manual_map,high,Tenzaryl = benzalkonium chloride
+COCAMIDE DEA,61791-31-9,8053426,CCOC(=O)C1CCCN(C1)CCCCOC2=CC=C(C=C2)F,ethyl (3R)-1-[4-(4-fluorophenoxy)butyl]piperidine-3-carboxylate,C18H26FNO3,323.4,cid_from_step2,manual_map,high,Assumed Comperlan COD
+PARFUM,,,,,,,not_applicable,manual_map,high,
+DISODIUM DISTYRYLBIPHENYL DISULFONATE,27344-41-8,25151880,CC1=CC=C(C=C1)S(=O)(=O)NC(C2CO2)C3=CC=CC=C3,4-methyl-N-[(R)-[(2R)-oxiran-2-yl]-phenylmethyl]benzenesulfonamide,C16H17NO3S,303.4,cid_from_step2,manual_map,high,Optical brightener
+MICA (AND) TITANIUM DIOXIDE,,,,,,,not_found,manual_map,high,Nacreous pearlescent pigment
+SODIUM CHLORIDE,7647-14-5,5234,[Na+].[Cl-],sodium chloride,ClNa,58.44,cid_from_step2,manual_map,high,
+COCAMIDE DEA,61791-31-9,8053426,CCOC(=O)C1CCCN(C1)CCCCOC2=CC=C(C=C2)F,ethyl (3R)-1-[4-(4-fluorophenoxy)butyl]piperidine-3-carboxylate,C18H26FNO3,323.4,cid_from_step2,manual_map,high,OCR typo of Comperlan
+CI 42051,3536-49-0,77073,CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=CC(=C(C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])O.CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=CC(=C(C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Ca+2],"calcium bis(4-[[4-(diethylamino)phenyl]-(4-diethylazaniumylidenecyclohexa-2,5-dien-1-ylidene)methyl]-6-hydroxybenzene-1,3-disulfonate)",C54H62CaN4O14S4,1159.4,cid_from_step2,manual_map,high,Patent Blue V
+NONOXYNOL-9,9016-45-9,24756940,COC1=CC(=C(C=C1)OCC2=CC=CC=C2)C=C3C(=O)NC(=S)S3,"(5Z)-5-[(5-methoxy-2-phenylmethoxyphenyl)methylidene]-2-sulfanylidene-1,3-thiazolidin-4-one",C18H15NO3S2,357.5,cid_from_step2,manual_map,high,
+ETYLENE GLYCOL,107-21-1,174,C(CO)O,"ethane-1,2-diol",C2H6O2,62.07,cid_from_step2,manual_map,high,Inhibited monoethylene glycol (antifreeze)
+SODIUM LAURETH SULFATE,9004-82-4,23665763,OS(=O)[O-].[Na+],sodium hydrogen sulfite,HNaO3S,104.06,cid_from_step2,manual_map,high,
+DIMETHICONE,9006-65-9,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,
+DIMETHICONE,9006-65-9,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,
+NONIONIC SURFACTANT (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,Cemulsol = generic nonionic surfactant trade name
+DIMETHICONE,9006-65-9,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,BC 91/023 = 60% silicone emulsion
+DIMETHICONE,9006-65-9,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,BC 2268 silicone emulsion
+PARFUM,,,,,,,not_applicable,manual_map,high,
+CI 42000,569-64-2,11038,CC1C2CC(C2(C)C)CC1=O,"2,6,6-trimethylbicyclo[3.1.1]heptan-3-one",C10H16O,152.23,cid_from_step2,manual_map,high,Malachite green assumed
+SODIUM METASILICATE,6834-92-0,23792,CC[NH+](CCCl)CC1=CSC2=C1C=C(C=C2)Br.[Cl-],(5-bromo-1-benzothiophen-3-yl)methyl-(2-chloroethyl)-ethylazanium chloride,C13H16BrCl2NS,369.1,cid_from_step2,manual_map,high,OCR typo
+SODIUM CARBONATE,497-19-8,10340,C(=O)([O-])[O-].[Na+].[Na+],disodium;carbonate,CNa2O3,105.988,cid_from_step2,manual_map,high,
+SODIUM LAURETH SULFATE,9004-82-4,23665763,OS(=O)[O-].[Na+],sodium hydrogen sulfite,HNaO3S,104.06,cid_from_step2,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+"HYDROCARBONS, C9-C12, N-ALKANES, ISOALKANES, CYCLICS",64742-47-8,516308,CCCOC1=CC=C(C=C1)CC2=NN(C(=C2)C3CCN(CC3)CC4CN(CC4C5=CC(=CC=C5)F)C(C6CCCCC6)C(=O)O)CC,"(2R)-2-cyclohexyl-2-[(3S,4S)-3-[[4-[1-ethyl-3-[(4-propoxyphenyl)methyl]pyrazol-5-yl]piperidin-1-yl]methyl]-4-(3-fluorophenyl)pyrrolidin-1-yl]acetic acid",C39H53FN4O3,644.9,cid_from_step2,manual_map,high,White spirit solvent
+MICROCRYSTALLINE WAX,63231-60-7,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,M12 microcrystalline wax
+MICROCRYSTALLINE WAX,63231-60-7,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,Cire S — shoe wax grade
+MICROCRYSTALLINE WAX,63231-60-7,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,Cire KLE — shoe wax grade
+MICROCRYSTALLINE WAX,63231-60-7,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,Cire E — shoe wax grade
+NONOXYNOL-7,9016-45-9,24756940,COC1=CC(=C(C=C1)OCC2=CC=CC=C2)C=C3C(=O)NC(=S)S3,"(5Z)-5-[(5-methoxy-2-phenylmethoxyphenyl)methylidene]-2-sulfanylidene-1,3-thiazolidin-4-one",C18H15NO3S2,357.5,cid_from_step2,manual_map,high,
+TRIETHANOLAMINE,102-71-6,7618,C(CO)N(CCO)CCO,2-[bis(2-hydroxyethyl)amino]ethanol,C6H15NO3,149.19,cid_from_step2,manual_map,high,Base neutralisante = TEA
+COLORANT (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,
+CI 50415,8005-03-6,3084073,CC1C(C(CC(O1)OC2CCC3(C(C2)CCC4C3CCC5(C4(CCC5C6=CC(=O)OC6)O)C)C)O)OC7CC(C(C(O7)C)OC8CC(C(C(O8)C)OC9C(C(C(C(O9)CO)O)O)O)OC(=O)C)O,"[(2R,3R,4S)-6-[(2R,3S,4S)-4-hydroxy-6-[(2R,3S,4S)-4-hydroxy-6-[[(3S,9S,10S,13R,17R)-14-hydroxy-10,13-dimethyl-17-(5-oxo-2H-furan-3-yl)-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahydrocyclopenta[a]phenanthren-3-yl]oxy]-2-methyloxan-3-yl]oxy-2-methyloxan-3-yl]oxy-2-methyl-3-[(3S,4R,5R,6S)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-4-yl] acetate",C49H76O19,969.1,cid_from_step2,manual_map,high,Nigrosine dye
+CI 77266,1333-86-4,5462329,C(=CC(=O)O)C(=O)C=CO,"(5E)-6-hydroxy-4-oxohexa-2,5-dienoic acid",C6H6O4,142.11,cid_from_step2,manual_map,high,Carbon black
+DISTEARYLDIMETHYLAMMONIUM CHLORIDE,107-64-2,9901,CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC4(C#C)O)C,"(17R)-17-ethynyl-17-hydroxy-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one",C21H28O2,312.4,cid_from_step2,manual_map,high,Stepantex = fabric softener quat
+PARFUM,,,,,,,not_applicable,manual_map,high,
+PEG-40 HYDROGENATED CASTOR OIL,61788-85-0,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,Cremophor RH40
+PARFUM,,,,,,,not_applicable,manual_map,high,
+HYDROCHLORIC ACID,7647-01-0,313,Cl,chlorane,ClH,36.46,cid_from_step2,manual_map,high,OCR artifact of 'concentré'
+NONOXYNOL-9,9016-45-9,24756940,COC1=CC(=C(C=C1)OCC2=CC=CC=C2)C=C3C(=O)NC(=S)S3,"(5Z)-5-[(5-methoxy-2-phenylmethoxyphenyl)methylidene]-2-sulfanylidene-1,3-thiazolidin-4-one",C18H15NO3S2,357.5,cid_from_step2,manual_map,high,AP9 nonionic surfactant
+SODIUM DODECYLBENZENESULFONATE,25155-30-0,23665752,C1COC2=NC3=CC=CC=C3C(=C21)[O-].[Na+],"sodium 2,3-dihydrofuro[2,3-b]quinolin-4-olate",C11H8NNaO2,209.18,cid_from_step2,manual_map,high,
+HYDROCHLORIC ACID,7647-01-0,313,Cl,chlorane,ClH,36.46,cid_from_step2,manual_map,high,30% solution
+STEARIC ACID,57-11-4,5281,CCCCCCCCCCCCCCCCCC(=O)O,octadecanoic acid,C18H36O2,284.5,cid_from_step2,manual_map,high,Double Pression grade
+GLYCERIN,56-81-5,753,C(C(CO)O)O,"propane-1,2,3-triol",C3H8O3,92.09,cid_from_step2,manual_map,high,
+SODIUM SILICATE,1344-09-8,3423151,C1CC(OC1)N2C=C(C(=O)N(C2=O)CC3=CC=C(C=C3)[N+](=O)[O-])F,"5-fluoro-3-[(4-nitrophenyl)methyl]-1-(oxolan-2-yl)pyrimidine-2,4-dione",C15H14FN3O5,335.29,cid_from_step2,manual_map,high,
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+CETEARETH-12,68439-49-6,24765,CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.CC(C)C1=CC2=CCC3C(C2CC1)(CCCC3(C)C(=O)[O-])C.[Ca+2],"calcium bis((1R,4aR,4bR,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,4b,5,6,10,10a-octahydrophenanthrene-1-carboxylate)",C40H58CaO4,643.0,cid_from_step2,manual_map,high,Emulgin B1 variant
+BUTYROSPERMUM PARKII BUTTER,91080-23-8,5366085,C1=CC=C(C(=C1)C(=CC2=CC=C(C=C2)C(F)(F)F)C(=O)O)N,(Z)-2-(2-aminophenyl)-3-[4-(trifluoromethyl)phenyl]prop-2-enoic acid,C16H12F3NO2,307.27,cid_from_step2,manual_map,high,Shea butter
+BHA,25013-16-5,8456,CC(C)(C)C1=C(C=CC(=C1)OC)O,2-tert-butyl-4-methoxyphenol,C11H16O2,180.24,cid_from_step2,manual_map,high,Butylhydroxyanisole antioxidant
+CALCIUM HYDROXIDE,1305-62-0,6093208,[OH-].[OH-].[Ca+2],calcium dihydroxide,CaH2O2,74.09,cid_from_step2,manual_map,high,
+CALCIUM THIOGLYCOLATE,814-71-1,13141,C(C(=O)[O-])S.C(C(=O)[O-])S.[Ca+2],calcium bis(2-sulfanylacetate),C4H6CaO4S2,222.3,cid_from_step2,manual_map,high,Depilatory active
+TALC,14807-96-6,24961609,CN1CCCC1CNC(=O)C2=CC=C(C=C2)C3=CN=C4N3N=C(C=C4)NCC5CCCO5,"N-[(1-methylpyrrolidin-2-yl)methyl]-4-[6-(oxolan-2-ylmethylamino)imidazo[1,2-b]pyridazin-3-yl]benzamide",C24H30N6O2,434.5,cid_from_step2,manual_map,high,
+MENTHOL,89-78-1,16666,CC1CCC(C(C1)O)C(C)C,"(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexan-1-ol",C10H20O,156.26,cid_from_step2,manual_map,high,
+ALCOHOL DENAT.,64-17-5,702,CCO,ethanol,C2H6O,46.07,cid_from_step2,manual_map,high,
+ALCOHOL,64-17-5,702,CCO,ethanol,C2H6O,46.07,cid_from_step2,manual_map,high,Pharmaceutical ethanol
+CARBOMER,9003-01-4,2723949,CC(=S)N,ethanethioamide,C2H5NS,75.14,cid_from_step2,manual_map,high,Crosslinked polyacrylic acid
+TRICLOCARBAN,101-20-2,7547,C1=CC(=CC=C1NC(=O)NC2=CC(=C(C=C2)Cl)Cl)Cl,"1-(4-chlorophenyl)-3-(3,4-dichlorophenyl)urea",C13H9Cl3N2O,315.6,cid_from_step2,manual_map,high,
+CI 42650,1694-09-3,15558614,CC(CC(C(C(C)(C)O)O)O)C1=C2CC(C3C4(CCC(=O)C(C4CCC3(C2(CC1)C)C)(C)C)C)O,"11-hydroxy-4,4,8,10,14-pentamethyl-17-(4,5,6-trihydroxy-6-methylheptan-2-yl)-1,2,5,6,7,9,11,12,15,16-decahydrocyclopenta[a]phenanthren-3-one",C30H50O5,490.7,cid_from_step2,manual_map,high,Violet 23
+SODIUM LAURETH SULFATE,9004-82-4,23665763,OS(=O)[O-].[Na+],sodium hydrogen sulfite,HNaO3S,104.06,cid_from_step2,manual_map,high,
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,C1=C(C(C(C1O)O)N2C=NC3=C(N=CN=C32)N)CO,"(1S,2R,5R)-5-(6-aminopurin-9-yl)-4-(hydroxymethyl)cyclopent-3-ene-1,2-diol",C11H13N5O3,263.25,cid_from_step2,manual_map,high,
+COCAMIDE DEA,61791-31-9,8053426,CCOC(=O)C1CCCN(C1)CCCCOC2=CC=C(C=C2)F,ethyl (3R)-1-[4-(4-fluorophenoxy)butyl]piperidine-3-carboxylate,C18H26FNO3,323.4,cid_from_step2,manual_map,high,
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,CC(C)C(C(=O)NC(C(C)C)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(CC2=CC=C(C=C2)O)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CCSC)NC(=O)CNC(=O)C5CCCN5C(=O)C(C)N,,C70H105N19O18S,1532.8,cid_from_step2,manual_map,high,Lamesoft PO 65
+METHYLCHLOROISOTHIAZOLINONE (AND) METHYLISOTHIAZOLINONE,26172-55-4,57482,CCCC(=O)OC(C)(CC)C#C,3-methylpent-1-yn-3-yl butanoate,C10H16O2,168.23,cid_from_step2,manual_map,high,Kathon CG
+PARFUM,,,,,,,not_applicable,manual_map,high,
+CI 42051 / CI 42650 / CI 42090,,,,,,,not_found,manual_map,high,Lavender shade — color blend
+CI 42051,3536-49-0,77073,CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=CC(=C(C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])O.CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=CC(=C(C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Ca+2],"calcium bis(4-[[4-(diethylamino)phenyl]-(4-diethylazaniumylidenecyclohexa-2,5-dien-1-ylidene)methyl]-6-hydroxybenzene-1,3-disulfonate)",C54H62CaN4O14S4,1159.4,cid_from_step2,manual_map,high,Patent Blue V E131
+CI 42053,4180-46-5,6379,C[N+](C)(C)C.[Cl-],tetramethylazanium chloride,C4H12ClN,109.60,cid_from_step2,manual_map,high,Vert fixe 6B
+SODIUM LAURETH SULFATE,9004-82-4,23665763,OS(=O)[O-].[Na+],sodium hydrogen sulfite,HNaO3S,104.06,cid_from_step2,manual_map,high,
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,C1=C(C(C(C1O)O)N2C=NC3=C(N=CN=C32)N)CO,"(1S,2R,5R)-5-(6-aminopurin-9-yl)-4-(hydroxymethyl)cyclopent-3-ene-1,2-diol",C11H13N5O3,263.25,cid_from_step2,manual_map,high,
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,CC(C)C(C(=O)NC(C(C)C)C(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C1CCCN1C(=O)C(CC2=CC=C(C=C2)O)NC(=O)CNC(=O)C(C(C)C)NC(=O)C(CC3=CN=CN3)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CCSC)NC(=O)CNC(=O)C5CCCN5C(=O)C(C)N,,C70H105N19O18S,1532.8,cid_from_step2,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+METHYLCHLOROISOTHIAZOLINONE (AND) METHYLISOTHIAZOLINONE,26172-55-4,57482,CCCC(=O)OC(C)(CC)C#C,3-methylpent-1-yn-3-yl butanoate,C10H16O2,168.23,cid_from_step2,manual_map,high,Kathon CG variant
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,C1=C(C(C(C1O)O)N2C=NC3=C(N=CN=C32)N)CO,"(1S,2R,5R)-5-(6-aminopurin-9-yl)-4-(hydroxymethyl)cyclopent-3-ene-1,2-diol",C11H13N5O3,263.25,cid_from_step2,manual_map,high,
+PANTHENOL,81-13-0,131204,CC(C)(CO)C(C(=O)NCCCO)O,"(2R)-2,4-dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide",C9H19NO4,205.25,cid_from_step2,manual_map,high,
+OPACIFIER (UNSPECIFIED),,,,,,,not_applicable,manual_map,high,OCR typo of opacifiant
+PARFUM,,,,,,,not_applicable,manual_map,high,
+TRIETHANOLAMINE,102-71-6,7618,C(CO)N(CCO)CCO,2-[bis(2-hydroxyethyl)amino]ethanol,C6H15NO3,149.19,cid_from_step2,manual_map,high,TEA 85%
+LANOLIN,8006-54-0,11970101,CC1(CN(C2N1C(=O)C2(C)OCCCOC3(C4N(CC(N4C3=O)(C)C)C(=O)OCC5=CC=CC=C5)C)C(=O)OCC6=CC=CC=C6)C,"benzyl (5S,6S)-2,2,6-trimethyl-7-oxo-6-[3-[[(5S,6S)-2,2,6-trimethyl-7-oxo-4-phenylmethoxycarbonyl-1,4-diazabicyclo[3.2.0]heptan-6-yl]oxy]propoxy]-1,4-diazabicyclo[3.2.0]heptane-4-carboxylate",C35H44N4O8,648.7,cid_from_step2,manual_map,high,
+CETYL ALCOHOL,36653-82-4,2682496,C1CC(C(=O)C1)OC(=O)C2=NNC3=CC=CC=C32,[(1S)-2-oxocyclopentyl] 1H-indazole-3-carboxylate,C13H12N2O3,244.25,cid_from_step2,manual_map,high,Lorol C16 = cetyl alcohol
+SODIUM METHYLPARABEN,5026-62-0,12270,C1=CC(=CC(=C1)I)I,"1,3-diiodobenzene",C6H4I2,329.90,cid_from_step2,manual_map,high,POB = p-hydroxybenzoate
+PARFUM,,,,,,,not_applicable,manual_map,high,
+PANTHENOL,81-13-0,131204,CC(C)(CO)C(C(=O)NCCCO)O,"(2R)-2,4-dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide",C9H19NO4,205.25,cid_from_step2,manual_map,high,D-Panthenol = Provitamin B5
+PARFUM,,,,,,,not_applicable,manual_map,high,
+ALCOHOL DENAT.,64-17-5,702,CCO,ethanol,C2H6O,46.07,cid_from_step2,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+ALCOHOL DENAT.,64-17-5,702,CCO,ethanol,C2H6O,46.07,cid_from_step2,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,Lavender fragrance note
+PARFUM,,,,,,,not_applicable,manual_map,high,Fougère fragrance note
+PARFUM,,,,,,,not_applicable,manual_map,high,Fresh fragrance note
+PARFUM,,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,Lemon fragrance note
+PARFUM,,,,,,,not_applicable,manual_map,high,Navy fragrance note
+PARFUM,,,,,,,not_applicable,manual_map,high,
+PARFUM,,,,,,,not_applicable,manual_map,high,
+CELLULOSE GUM,9000-11-7,6420601,C1=CC(=CC=C1N2C(=O)C3=C(NC2=O)N=CN3)Br,"1-(4-bromophenyl)-3,7-dihydropurine-2,6-dione",C11H7BrN4O2,307.10,cid_from_step2,manual_map,high,CMC
+SODIUM SACCHARIN,128-44-9 / 6155-57-3,656582,C1=CC=C2C(=C1)C(=O)[N-]S2(=O)=O.[Na+],"sodium 1,1-dioxo-1,2-benzothiazol-2-id-3-one",C7H4NNaO3S,205.17,cas_lookup,fuzzy_cosing,medium,fuzzy matched 'saccharimante de sodium' -> 'SODIUM SACCHARIN'
+HYDRATED SILICA,7699-41-4,6124190,CC1=CC(=C(C=C1)C)C(=C2C(N(C(=O)C2=O)C3=NC4=C(S3)C=C(C=C4)F)C5=CC(=CC=C5)OC6=CC=CC=C6)O,"(4E)-4-[(2,5-dimethylphenyl)-hydroxymethylidene]-1-(6-fluoro-1,3-benzothiazol-2-yl)-5-(3-phenoxyphenyl)pyrrolidine-2,3-dione",C32H23FN2O4S,550.6,cid_from_step2,manual_map,high,Sident 22S abrasive silica
+SODIUM MONOFLUOROPHOSPHATE,10163-15-2,24948,[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ce+3],cerium(3+) trinitrate,CeN3O9,326.13,cid_from_step2,manual_map,high,
+HYDRATED SILICA,7699-41-4,6124190,CC1=CC(=C(C=C1)C)C(=C2C(N(C(=O)C2=O)C3=NC4=C(S3)C=C(C=C4)F)C5=CC(=CC=C5)OC6=CC=CC=C6)O,"(4E)-4-[(2,5-dimethylphenyl)-hydroxymethylidene]-1-(6-fluoro-1,3-benzothiazol-2-yl)-5-(3-phenoxyphenyl)pyrrolidine-2,3-dione",C32H23FN2O4S,550.6,cid_from_step2,manual_map,high,Sident 9 thickening silica
+CI 42051,3536-49-0,77073,CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=CC(=C(C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])O.CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=CC(=C(C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Ca+2],"calcium bis(4-[[4-(diethylamino)phenyl]-(4-diethylazaniumylidenecyclohexa-2,5-dien-1-ylidene)methyl]-6-hydroxybenzene-1,3-disulfonate)",C54H62CaN4O14S4,1159.4,cid_from_step2,manual_map,high,Patent Blue V
+CELLULOSE GUM,9000-11-7,6420601,C1=CC(=CC=C1N2C(=O)C3=C(NC2=O)N=CN3)Br,"1-(4-bromophenyl)-3,7-dihydropurine-2,6-dione",C11H7BrN4O2,307.10,cid_from_step2,manual_map,high,CMC
+ALLANTOIN,97-59-6,204,C1(C(=O)NC(=O)N1)NC(=O)N,"(2,5-dioxoimidazolidin-4-yl)urea",C4H6N4O3,158.12,cid_from_step2,manual_map,high,
+SODIUM FLUORIDE,7681-49-4,5284567,CC(=O)NCCOC(=O)C(C1=CC=C(C=C1)Cl)OC2=CC=C(C=C2)C(F)(F)F,2-acetamidoethyl 2-(4-chlorophenyl)-2-[4-(trifluoromethyl)phenoxy]acetate,C19H17ClF3NO4,415.8,cid_from_step2,manual_map,high,
+TOOTHPASTE FLAVOR,,,,,,,not_applicable,manual_map,high,Proprietary dental flavor
+TRIETHANOLAMINE,102-71-6,7618,C(CO)N(CCO)CCO,2-[bis(2-hydroxyethyl)amino]ethanol,C6H15NO3,149.19,cid_from_step2,manual_map,high,TEA 85%
+OXYQUINOLINE SULFATE,134-31-6,517000,C1=CC2=C(C(=C1)O)N=CC=C2.C1=CC2=C(C(=C1)O)N=CC=C2.OS(=O)(=O)O,bis(quinolin-8-ol);sulfuric acid,C18H16N2O6S,388.4,cid_from_step2,manual_map,high,
+COCAMIDE DEA,61791-31-9,9993,C1=CC(=CC=C1F)Br,1-bromo-4-fluorobenzene,C6H4BrF,175.00,cid_from_step2,manual_map,high,COD = Cocodiethanolamide / Cocamide DEA
+GLYCOL DISTEARATE,627-83-8,12497,CCC(=O)OC1=CC=CC=C1,phenyl propanoate,C9H10O2,150.17,cid_from_step2,manual_map,high,Nacron = glycol distearate opacifier
+SODIUM HYDROXIDE,1310-73-2,14798,[OH-].[Na+],sodium hydroxide,HNaO,39.997,cid_from_step2,manual_map,high,Caustic soda pure
+BUTOXYETHANOL,111-76-2,8057,CCCCCBr,1-bromopentane,C5H11Br,151.04,cid_from_step2,manual_map,high,Butyl glycol = Butyl cellosolve
+SODIUM HYDROXIDE,1310-73-2,14798,[OH-].[Na+],sodium hydroxide,HNaO,39.997,cid_from_step2,manual_map,high,NaOH 100%
+TETRASODIUM ETIDRONATE,3794-83-0,20452,CC1=CC=C(C=C1)C(C2=CC=C(C=C2)C)C(Cl)(Cl)Cl,"1-methyl-4-[2,2,2-trichloro-1-(4-methylphenyl)ethyl]benzene",C16H15Cl3,313.6,cid_from_step2,manual_map,high,Sodium phosphonate corrosion inhibitor
+PARFUM,,,,,,,not_applicable,manual_map,high,Fragrance blend
+CI 45410,632-69-9,32343,C1=C2C(=C3C=C(C(=O)C(=C3OC2=C(C(=C1I)[O-])I)I)I)C4=C(C(=C(C(=C4Cl)Cl)Cl)Cl)C(=O)[O-].[Na+].[Na+],"disodium;2,3,4,5-tetrachloro-6-(2,4,5,7-tetraiodo-3-oxido-6-oxoxanthen-9-yl)benzoate",C20H2Cl4I4Na2O5,1017.6,cid_from_step2,manual_map,high,Fluorescent rose colorant
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+WATER/SOLVENT,,,,,,,skipped,skipped_solvent,high,water/solvent
+SODIUM HYDROXIDE,1310-73-2,14798,[OH-].[Na+],sodium hydroxide,HNaO,39.997,cid_from_step2,manual_map,high,Caustic soda granules
+PARFUM,,,,,,,not_applicable,manual_map,high,Fragrance blend
+CI 60725,81-48-1,6680,CC1=CC=C(C=C1)NC2=C3C(=C(C=C2)O)C(=O)C4=CC=CC=C4C3=O,"1-hydroxy-4-(4-methylanilino)anthracene-9,10-dione",C21H15NO3,329.3,cid_from_step2,manual_map,high,CI 60725 with fragrance label
+CI 42051,3536-49-0,77073,CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=CC(=C(C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])O.CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=CC(=C(C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Ca+2],"calcium bis(4-[[4-(diethylamino)phenyl]-(4-diethylazaniumylidenecyclohexa-2,5-dien-1-ylidene)methyl]-6-hydroxybenzene-1,3-disulfonate)",C54H62CaN4O14S4,1159.4,cid_from_step2,manual_map,high,Patent Blue V
+CI 45410,632-69-9,32343,C1=C2C(=C3C=C(C(=O)C(=C3OC2=C(C(=C1I)[O-])I)I)I)C4=C(C(=C(C(=C4Cl)Cl)Cl)Cl)C(=O)[O-].[Na+].[Na+],"disodium;2,3,4,5-tetrachloro-6-(2,4,5,7-tetraiodo-3-oxido-6-oxoxanthen-9-yl)benzoate",C20H2Cl4I4Na2O5,1017.6,cid_from_step2,manual_map,high,Rose bengal / Acid Red 94
+PARFUM,,,,,,,not_applicable,manual_map,high,Fragrance blend
+CI 19140,1934-21-0,164825,C1=CC(=CC=C1N=NC2C(=NN(C2=O)C3=CC=C(C=C3)S(=O)(=O)[O-])C(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+],trisodium;5-oxo-1-(4-sulfonatophenyl)-4-[(4-sulfonatophenyl)diazenyl]-4H-pyrazole-3-carboxylate,C16H9N4Na3O9S2,534.4,cid_from_step2,manual_map,high,Tartrazine
+CI 60725,81-48-1,6680,CC1=CC=C(C=C1)NC2=C3C(=C(C=C2)O)C(=O)C4=CC=CC=C4C3=O,"1-hydroxy-4-(4-methylanilino)anthracene-9,10-dione",C21H15NO3,329.3,cid_from_step2,manual_map,high,Disperse Violet 1
+CI 16255,2611-82-7,17466,C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])N=NC3=C(C=CC4=CC(=CC(=C43)S(=O)(=O)[O-])S(=O)(=O)[O-])O.[Na+].[Na+].[Na+],"trisodium;7-hydroxy-8-[(4-sulfonatonaphthalen-1-yl)diazenyl]naphthalene-1,3-disulfonate",C20H11N2Na3O10S3,604.5,cid_from_step2,manual_map,high,Ponceau 4R
+SODIUM HYPOCHLORITE,7681-52-9,23665746,CCOCC(=O)[O-].[Na+],sodium 2-ethoxyacetate,C4H7NaO3,126.09,cid_from_step2,manual_map,high,guillemet delimiters
+COCAMIDOPROPYL BETAINE,61789-40-0,3080820,CCCCN1C2=CC=CC=C2SC1=CC=CC=CC3=[N+](C4=CC=CC=C4S3)CCCC.[I-],"3-butyl-2-[5-(3-butyl-1,3-benzothiazol-3-ium-2-yl)penta-2,4-dienylidene]-1,3-benzothiazole iodide",C27H31IN2S2,574.6,cid_from_step2,manual_map,high,Ninox = CAPB amphoteric
+SODIUM DODECYLBENZENESULFONATE,25155-30-0,23665752,C1COC2=NC3=CC=CC=C3C(=C21)[O-].[Na+],"sodium 2,3-dihydrofuro[2,3-b]quinolin-4-olate",C11H8NNaO2,209.18,cid_from_step2,manual_map,high,Sécosyl = LAS
+SODIUM HYDROXIDE,1310-73-2,14798,[OH-].[Na+],sodium hydroxide,HNaO,39.997,cid_from_step2,manual_map,high,NaOH pure
+SODIUM HYPOCHLORITE,7681-52-9,23665746,CCOCC(=O)[O-].[Na+],sodium 2-ethoxyacetate,C4H7NaO3,126.09,cid_from_step2,manual_map,high,guillemet delimiters
+SODIUM HYDROXIDE,1310-73-2,14798,[OH-].[Na+],sodium hydroxide,HNaO,39.997,cid_from_step2,manual_map,high,NaOH 100%
+PARFUM,,,,,,,not_applicable,manual_map,high,Fragrance base Tche-Hi
+PARFUM,,,,,,,not_applicable,manual_map,high,Fragrance base Nessma
+PARFUM,,,,,,,not_applicable,manual_map,high,Fragrance base Darky
+SULFURIC ACID,7664-93-9,1118,OS(=O)(=O)O,sulfuric acid,H2O4S,98.08,cid_from_step2,manual_map,high,
+WAX (UNSPECIFIED),,,,,,,not_found,manual_map,high,Generic wax class from composition list
+SOLVENT (UNSPECIFIED),,,,,,,not_found,manual_map,high,Generic solvent
+EMULSIFYING AGENT (UNSPECIFIED),,,,,,,not_found,manual_map,high,Generic emulsifier

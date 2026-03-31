@@ -1,0 +1,381 @@
+inci_name,cas_number,pubchem_cid,match_method,match_score,confidence,notes
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+FORMALDEHYDE,50-00-0,712,manual_map,100,high,
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+NONOXYNOL-9,9016-45-9,24756940,manual_map,100,high,OCR variant of Nonyl-Phenol Ethoxylé
+SODIUM LAURETH SULFATE,3088-31-1 / 9004-82-4 / 68891-38-3 / 1335-72-4 / 68585-34-2 / 91648-56-5,,fuzzy_cosing,84.6,medium,fuzzy matched 'lauryl-ether sulfate de sodium' -> 'SODIUM LAURETH SULFATE'
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,manual_map,100,high,Fuzzy match — explicit CID added
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+GLYCERIN,56-81-5,753,manual_map,100,high,
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+SODIUM DODECYLBENZENESULFONATE,25155-30-0,23665752,manual_map,100,high,
+SODIUM HYDROXIDE,1310-73-2,14798,manual_map,100,high,NaOH
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+TETRASODIUM EDTA,64-02-8,33040,manual_map,100,high,Tetrasodium EDTA assumed; could be disodium
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+PHOSPHONATE COMPOUND,,,manual_map,100,high,Generic phosphonate class — CAS depends on specific compound
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+PARFUM,,,exact_cosing,100,high,
+STABILIZER (UNSPECIFIED),,,manual_map,100,high,
+PRESERVATIVE (UNSPECIFIED),,,manual_map,100,high,Generic preservative — type not specified
+CI 19140,1934-21-0,164825,manual_map,100,high,Tartrazine / FD&C Yellow 5
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+DISODIUM DISTYRYLBIPHENYL DISULFONATE,27344-41-8,25151880,manual_map,100,high,
+DISTYRYLBIPHENYL DISULFONATE,27344-41-8,25151880,manual_map,100,high,OB optical brightener powder
+TRIETHANOLAMINE,102-71-6,7618,manual_map,100,high,Neutralizing base — assumed TEA
+BUTOXYETHANOL,111-76-2,8057,manual_map,100,high,Butyl glycol
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+ETHYLENE GLYCOL,107-21-1,174,manual_map,100,high,OAT inhibited MEG G13
+ANTIFREEZE (UNSPECIFIED),,,manual_map,100,high,
+CORROSION INHIBITOR (UNSPECIFIED),,,manual_map,100,high,
+COLORANT (UNSPECIFIED),,,manual_map,100,high,
+GLYCERIN,56-81-5,753,manual_map,100,high,
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+ETHYLENE GLYCOL,107-21-1,174,manual_map,100,high,OAT inhibited MEG G12
+CORROSION INHIBITOR (UNSPECIFIED),,,manual_map,100,high,
+ETHYLENE GLYCOL,107-21-1,174,manual_map,100,high,Inhibited MEG
+ETHYLENE GLYCOL,107-21-1,174,manual_map,100,high,Mineral inhibited glycol blend
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+NONOXYNOL-9,9016-45-9,24756940,manual_map,100,high,OCR variant
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+PARFUM,,,manual_map,100,high,
+SULFURIC ACID,7664-93-9,1118,manual_map,100,high,Sulfuric acid + water solution
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+NONOXYNOL-9,9016-45-9,24756940,manual_map,100,high,OCR variant
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+SEQUESTERING AGENT (UNSPECIFIED),,,manual_map,100,high,
+PARAFFIN,8002-74-2,6922266,manual_map,100,high,
+CI 12140,1229-55-6,15552,manual_map,100,high,Orange II dye
+CI 26105,6226-78-4,24857040,manual_map,100,high,Sudan Brown
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+MICROCRYSTALLINE WAX,63231-60-7,24765,manual_map,100,high,
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+OPACIFIER (UNSPECIFIED),,,manual_map,100,high,
+SOLUBILIZER (UNSPECIFIED),,,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+CI 14700,4548-53-2,5360,manual_map,100,high,Food Red 1 / Ponceau
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+HYDROCHLORIC ACID,7647-01-0,313,manual_map,100,high,
+NONOXYNOL-9,9016-45-9,24756940,manual_map,100,high,OCR variant
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+SODIUM HYPOCHLORITE,7681-52-9,23665763,manual_map,100,high,Concentrated NaOCl
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+SODIUM HYPOCHLORITE,7681-52-9,,fuzzy_cosing,82.6,medium,fuzzy matched 'hypochlorite de sodium. eau' -> 'SODIUM HYPOCHLORITE'
+COCONUT ACID,67701-05-7,5365679,manual_map,100,high,Mixed coconut fatty acids
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+PARFUM,,,manual_map,100,high,
+SODIUM HYDROXIDE,1310-73-2,14798,manual_map,100,high,NaOH
+STEARIC ACID,57-11-4,5281,manual_map,100,high,Double Pression grade
+COCONUT ACID,67701-05-7,5365679,manual_map,100,high,Mixed coconut fatty acids
+SODIUM TETRABORATE,1303-96-4,10219853,manual_map,100,high,
+POTASSIUM CHLORIDE,7447-40-7,4873,manual_map,100,high,
+SODIUM SILICATE,1344-09-8,3423151,manual_map,100,high,OCR typo of silicate de soude
+POTASSIUM HYDROXIDE,1310-58-3,14797,manual_map,100,high,KOH
+SODIUM HYDROXIDE,1310-73-2,14798,manual_map,100,high,NaOH
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+ISOPROPYL MYRISTATE,110-27-0,8042,manual_map,100,high,
+BUTYROSPERMUM PARKII BUTTER,91080-23-8,5366085,manual_map,100,high,Shea butter
+CALCIUM CARBONATE,471-34-1,10112,manual_map,100,high,
+CALCIUM THIOGLYCOLATE,814-71-1,,fuzzy_cosing,90.9,high,fuzzy matched 'thiolycolate de calcium' -> 'CALCIUM THIOGLYCOLATE'
+PARFUM,,,manual_map,100,high,
+MAGNESIUM SILICATE,1343-88-0,23924789,manual_map,100,high,
+POTASSIUM CHLORIDE,7447-40-7,4873,manual_map,100,high,
+ALCOHOL DENAT.,64-17-5,702,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+ALCOHOL DENAT.,64-17-5,702,manual_map,100,high,
+CARBOMER,9003-01-4,2723949,manual_map,100,high,
+AMP (AMINOMETHYL PROPANOL),124-68-5,8572,manual_map,100,high,AMP-95 = 2-amino-2-methyl-1-propanol 95%
+ANTIMICROBIAL AGENT (UNSPECIFIED),,,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+AMP (AMINOMETHYL PROPANOL),124-68-5,8572,manual_map,100,high,AMP-95 = 2-amino-2-methyl-1-propanol 95%
+GLYCERIN,56-81-5,753,manual_map,100,high,Pharmaceutical grade
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+ISOPROPYL ALCOHOL,67-63-0,3776,manual_map,100,high,IPA
+PROPYLENE GLYCOL,57-55-6,,exact_cosing,100,high,
+ISOPROPYL ALCOHOL,67-63-0,3776,manual_map,100,high,IPA
+GLYCINE,56-40-6,,fuzzy_cosing,87.5,medium,fuzzy matched 'glycétine' -> 'GLYCINE'
+TRICLOCARBAN,101-20-2,7547,manual_map,100,high,
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+SODIUM CHLORIDE,7647-14-5,,fuzzy_cosing,84.8,medium,fuzzy matched 'chlorure de sodium' -> 'SODIUM CHLORIDE'
+SODIUM LAURETH SULFATE,9004-82-4,23665763,manual_map,100,high,OCR typo of lauryl
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,manual_map,100,high,
+COCAMIDE DEA,61791-31-9,8053426,manual_map,100,high,Exact CosIng match — explicit CID added
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,manual_map,100,high,
+SODIUM CHLORIDE,7647-14-5,,fuzzy_cosing,84.8,medium,fuzzy matched 'chlorure de sodium' -> 'SODIUM CHLORIDE'
+TRICLOSAN,3380-34-5,5564,manual_map,100,high,
+PRESERVATIVE (UNSPECIFIED),,,manual_map,100,high,
+PARFUM,,,fuzzy_cosing,92.3,high,fuzzy matched 'parfum.' -> 'PARFUM'
+SODIUM LAURETH SULFATE,9004-82-4,23665763,manual_map,100,high,
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,manual_map,100,high,
+TRICLOSAN,3380-34-5,5564,manual_map,100,high,Trade name Irgasan DP300
+PARFUM,,,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+SODIUM LAURYL SULFATE,151-21-3,,fuzzy_cosing,82.4,medium,fuzzy matched 'lauryl éther sulfate de sodium' -> 'SODIUM LAURYL SULFATE'
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,manual_map,100,high,
+TRICLOSAN,3380-34-5,5564,manual_map,100,high,
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,manual_map,100,high,Dehyton AB30 = CAPB 30%
+COCAMIDE DEA,61791-31-9,8053426,manual_map,100,high,Comperlan COD = Cocamide DEA
+COCO-GLUCOSIDE,141464-42-8,16136216,manual_map,100,high,Plantacare 818 = Coco-glucoside
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,manual_map,100,high,
+PEG-7 GLYCERYL COCOATE,68201-46-7,25152395,manual_map,100,high,Cetiol HE = PEG-7 glyceryl cocoate
+TETRASODIUM EDTA,64-02-8,33040,manual_map,100,high,Tetrasodium EDTA assumed; could be disodium
+PRESERVATIVE (UNSPECIFIED),,,manual_map,100,high,
+CITRIC ACID,77-92-9,311,manual_map,100,high,
+COCO-GLUCOSIDE,141464-42-8,16136216,manual_map,100,high,Plantacare 818 = Coco-glucoside
+POLYQUATERNIUM-7,26590-05-6,16219946,manual_map,100,high,Merquat 550
+POLYQUATERNIUM-10,68610-92-4,16217556,manual_map,100,high,PQ-10 = hydroxyethyl cellulose quat
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+GLYCOL DISTEARATE,627-83-8,69988,manual_map,100,high,Pearlizing agent
+GLYCOL DISTEARATE,627-83-8,69988,manual_map,100,high,Opacifying agent; may vary by product
+PARFUM,,,manual_map,100,high,
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,manual_map,100,high,
+POLYQUATERNIUM-7,26590-05-6,16219946,manual_map,100,high,
+POLYQUATERNIUM-10,68610-92-4,16217556,manual_map,100,high,
+PANTHENOL,81-13-0,131204,manual_map,100,high,OCR variant
+GLYCOL DISTEARATE,627-83-8,69988,manual_map,100,high,Pearlizing agent
+GLYCOL DISTEARATE,627-83-8,69988,manual_map,100,high,Opacifying agent; may vary by product
+PARFUM,,,manual_map,100,high,Fragrance base — proprietary blend
+CITRIC ACID,77-92-9,311,manual_map,100,high,
+SODIUM TETRABORATE,1303-96-4,10219853,manual_map,100,high,
+PROPYLENE GLYCOL,57-55-6,1030,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+ACRYLATES COPOLYMER,25133-97-5,15939647,manual_map,100,high,
+ACRYLATES COPOLYMER,25133-97-5,15939647,manual_map,100,high,
+CETEARETH-25,68439-49-6,23674612,manual_map,100,high,Lanoxal 75 = ceteareth emulsifier
+PANTHENOL,81-13-0,131204,manual_map,100,high,D-Panthenol
+PROPELLANT (UNSPECIFIED),,,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+TRICLOSAN,3380-34-5,5564,manual_map,100,high,Trade name Irgasan DP300
+PARFUM,,,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+ALCOHOL DENAT.,64-17-5,702,manual_map,100,high,
+PROPYLENE GLYCOL,57-55-6,1030,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+PROPELLANT (UNSPECIFIED),,,manual_map,100,high,
+PROPELLANT (UNSPECIFIED),,,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+TRICLOSAN,3380-34-5,5564,manual_map,100,high,Irgasan DP300
+PARFUM,,,manual_map,100,high,
+CELLULOSE GUM,9000-11-7,6420601,manual_map,100,high,CMC
+METHYLPARABEN,99-76-3,7456,manual_map,100,high,
+PROPYLPARABEN,94-13-3,7175,manual_map,100,high,
+SODIUM SACCHARIN,128-44-9 / 6155-57-3,,fuzzy_cosing,84.2,medium,fuzzy matched 'saccharinate de sodium' -> 'SODIUM SACCHARIN'
+SODIUM LAURYL SULFATE,151-21-3,,fuzzy_cosing,85.7,medium,fuzzy matched 'lauryl sulfate de sodium pur' -> 'SODIUM LAURYL SULFATE'
+PEPPERMINT FLAVOR,,,manual_map,100,high,
+CI 42051,3536-49-0,77073,manual_map,100,high,
+SODIUM MONOFLUOROPHOSPHATE,10163-15-2,24948,manual_map,100,high,
+METHYLPARABEN,99-76-3,7456,manual_map,100,high,
+PROPYLPARABEN,94-13-3,7175,manual_map,100,high,
+SODIUM SACCHARIN,128-44-9 / 6155-57-3,,fuzzy_cosing,84.2,medium,fuzzy matched 'saccharinate de sodium' -> 'SODIUM SACCHARIN'
+SODIUM HYDROXIDE,1310-73-2,14798,manual_map,100,high,OCR typo of soude caustique
+CELLULOSE GUM,9000-11-7,6420601,manual_map,100,high,CMC
+SODIUM LAURYL SULFATE,151-21-3,3423265,manual_map,100,high,Empicol LX 95 = SLS 95%
+HYDRATED SILICA,7699-41-4,6124190,manual_map,100,high,
+PEPPERMINT FLAVOR,,,manual_map,100,high,Flavor ingredient — no single CAS
+TITANIUM DIOXIDE,13463-67-7,26042,manual_map,100,high,
+ALLANTOIN,97-59-6,,fuzzy_cosing,84.2,medium,fuzzy matched 'allantoïne' -> 'ALLANTOIN'
+CELLULOSE GUM,9000-11-7,6420601,manual_map,100,high,CMC
+PARFUM,,,manual_map,100,high,Aromatic oil — fragrance ingredient
+ALUMINA,1344-28-1,9989226,manual_map,100,high,Al2O3·3H2O abrasive
+TITANIUM DIOXIDE,13463-67-7,26042,manual_map,100,high,
+SORBITOL,50-70-4,5780,manual_map,100,high,
+SORBITOL,50-70-4,,fuzzy_cosing,88.9,medium,fuzzy matched 'sorbitol a' -> 'SORBITOL'
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+TOOTHPASTE FLAVOR,,,manual_map,100,high,
+SILICA,7631-86-9,24281,manual_map,100,high,Thickening silica
+CETEARYL ALCOHOL,67762-27-0,8936,manual_map,100,high,OCR typo Lanette O
+GLYCERYL STEARATE (AND) PEG-100 STEARATE,31566-31-1,5283468,manual_map,100,high,
+QUATERNIUM-18,61789-80-8,9570420,manual_map,100,high,Dehyquart A = quaternary ammonium surfactant
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+CETEARYL ALCOHOL,67762-27-0,8936,manual_map,100,high,Lanette O = cetearyl alcohol
+CETEARETH-12,68439-49-6,24765,manual_map,100,high,Emulgin B1 = ceteareth-12
+GLYCERYL STEARATE (AND) PEG-100 STEARATE,31566-31-1,5283468,manual_map,100,high,
+QUATERNIUM-18,61789-80-8,9570420,manual_map,100,high,OCR typo of Dehyquart A
+TRIETHANOLAMINE,102-71-6,,fuzzy_cosing,87.5,medium,fuzzy matched 'triéthanolamine à' -> 'TRIETHANOLAMINE'
+HYDROGEN PEROXIDE,7722-84-1,763,manual_map,100,high,
+OXYQUINOLINE SULFATE,134-31-6,,exact_cosing,100,high,
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+NONOXYNOL-9,9016-45-9,24756940,manual_map,100,high,Nonylphenol ethoxylate 9 EO
+TRIETHANOLAMINE,102-71-6,7618,manual_map,100,high,OCR typo
+PARFUM,,,manual_map,100,high,
+CI 19140,1934-21-0,164825,manual_map,100,high,OCR typo
+FORMALDEHYDE,50-00-0,712,manual_map,100,high,Formol = 37% formaldehyde solution
+DIMETHICONE,9006-65-9,24765,manual_map,100,high,
+PROPYLENE GLYCOL,57-55-6,1030,manual_map,100,high,Mono Propylene Glycol
+ALCOHOL DENAT.,64-17-5,702,manual_map,100,high,
+SODIUM LAURETH SULFATE,9004-82-4,23665763,manual_map,100,high,LES-Na 70% solution
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,manual_map,100,high,Assumed CAPB; confirm
+BUTOXYETHANOL,111-76-2,8057,manual_map,100,high,Butyl glycol / Butyl cellosolve
+TRISODIUM PHOSPHATE,7601-54-9,24455,manual_map,100,high,
+SODIUM METASILICATE,6834-92-0,23792,manual_map,100,high,
+CI 16129,3257-28-1,25151780,manual_map,100,high,
+SODIUM HYDROXIDE,1310-73-2,14798,manual_map,100,high,
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,manual_map,100,high,Assumed CAPB; confirm
+ALCOHOL DENAT.,64-17-5,702,manual_map,100,high,Emulcool 64% = denatured alcohol base
+SODIUM DODECYLBENZENESULFONATE,25155-30-0,23665752,manual_map,100,high,DDBSH = dodecylbenzene sulfonate
+DETERGENT BASE (UNSPECIFIED),,,manual_map,100,high,Blend — composition unknown
+BUTOXYETHANOL,111-76-2,8057,manual_map,100,high,Butyl glycol
+SODIUM METASILICATE,6834-92-0,23792,manual_map,100,high,
+TETRASODIUM EDTA,64-02-8,33040,manual_map,100,high,
+SODIUM HYDROXIDE,1310-73-2,14798,manual_map,100,high,
+NONOXYNOL-7,9016-45-9,24756940,manual_map,100,high,Nonylphenol ethoxylate 7 EO
+SORBITOL,50-70-4,5780,manual_map,100,high,
+SODIUM CHLORIDE,7647-14-5,5234,manual_map,100,high,
+DIMETHICONE,9006-65-9,24765,manual_map,100,high,Antifoam = silicone dimethicone assumed
+SODIUM LAURETH SULFATE,9004-82-4,23665763,manual_map,100,high,
+BENZALKONIUM CHLORIDE,8001-54-5,5974536,manual_map,100,high,Tenzaryl = benzalkonium chloride
+COCAMIDE DEA,61791-31-9,8053426,manual_map,100,high,Assumed Comperlan COD
+PARFUM,,,manual_map,100,high,
+DISODIUM DISTYRYLBIPHENYL DISULFONATE,27344-41-8,25151880,manual_map,100,high,Optical brightener
+MICA (AND) TITANIUM DIOXIDE,,,manual_map,100,high,Nacreous pearlescent pigment
+SODIUM CHLORIDE,7647-14-5,5234,manual_map,100,high,
+COCAMIDE DEA,61791-31-9,8053426,manual_map,100,high,OCR typo of Comperlan
+CI 42051,3536-49-0,77073,manual_map,100,high,Patent Blue V
+NONOXYNOL-9,9016-45-9,24756940,manual_map,100,high,
+ETYLENE GLYCOL,107-21-1,174,manual_map,100,high,Inhibited monoethylene glycol (antifreeze)
+SODIUM LAURETH SULFATE,9004-82-4,23665763,manual_map,100,high,
+DIMETHICONE,9006-65-9,24765,manual_map,100,high,
+DIMETHICONE,9006-65-9,24765,manual_map,100,high,
+NONIONIC SURFACTANT (UNSPECIFIED),,,manual_map,100,high,Cemulsol = generic nonionic surfactant trade name
+DIMETHICONE,9006-65-9,24765,manual_map,100,high,BC 91/023 = 60% silicone emulsion
+DIMETHICONE,9006-65-9,24765,manual_map,100,high,BC 2268 silicone emulsion
+PARFUM,,,manual_map,100,high,
+CI 42000,569-64-2,11038,manual_map,100,high,Malachite green assumed
+SODIUM METASILICATE,6834-92-0,23792,manual_map,100,high,OCR typo
+SODIUM CARBONATE,497-19-8,10340,manual_map,100,high,
+SODIUM LAURETH SULFATE,9004-82-4,23665763,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+"HYDROCARBONS, C9-C12, N-ALKANES, ISOALKANES, CYCLICS",64742-47-8,516308,manual_map,100,high,White spirit solvent
+MICROCRYSTALLINE WAX,63231-60-7,24765,manual_map,100,high,M12 microcrystalline wax
+MICROCRYSTALLINE WAX,63231-60-7,24765,manual_map,100,high,Cire S — shoe wax grade
+MICROCRYSTALLINE WAX,63231-60-7,24765,manual_map,100,high,Cire KLE — shoe wax grade
+MICROCRYSTALLINE WAX,63231-60-7,24765,manual_map,100,high,Cire E — shoe wax grade
+NONOXYNOL-7,9016-45-9,24756940,manual_map,100,high,
+TRIETHANOLAMINE,102-71-6,7618,manual_map,100,high,Base neutralisante = TEA
+COLORANT (UNSPECIFIED),,,manual_map,100,high,
+CI 50415,8005-03-6,3084073,manual_map,100,high,Nigrosine dye
+CI 77266,1333-86-4,5462329,manual_map,100,high,Carbon black
+DISTEARYLDIMETHYLAMMONIUM CHLORIDE,107-64-2,9901,manual_map,100,high,Stepantex = fabric softener quat
+PARFUM,,,manual_map,100,high,
+PEG-40 HYDROGENATED CASTOR OIL,61788-85-0,24765,manual_map,100,high,Cremophor RH40
+PARFUM,,,manual_map,100,high,
+HYDROCHLORIC ACID,7647-01-0,313,manual_map,100,high,OCR artifact of 'concentré'
+NONOXYNOL-9,9016-45-9,24756940,manual_map,100,high,AP9 nonionic surfactant
+SODIUM DODECYLBENZENESULFONATE,25155-30-0,23665752,manual_map,100,high,
+HYDROCHLORIC ACID,7647-01-0,313,manual_map,100,high,30% solution
+STEARIC ACID,57-11-4,5281,manual_map,100,high,Double Pression grade
+GLYCERIN,56-81-5,753,manual_map,100,high,
+SODIUM SILICATE,1344-09-8,3423151,manual_map,100,high,
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+CETEARETH-12,68439-49-6,24765,manual_map,100,high,Emulgin B1 variant
+BUTYROSPERMUM PARKII BUTTER,91080-23-8,5366085,manual_map,100,high,Shea butter
+BHA,25013-16-5,8456,manual_map,100,high,Butylhydroxyanisole antioxidant
+CALCIUM HYDROXIDE,1305-62-0,6093208,manual_map,100,high,
+CALCIUM THIOGLYCOLATE,814-71-1,13141,manual_map,100,high,Depilatory active
+TALC,14807-96-6,24961609,manual_map,100,high,
+MENTHOL,89-78-1,16666,manual_map,100,high,
+ALCOHOL DENAT.,64-17-5,702,manual_map,100,high,
+ALCOHOL,64-17-5,702,manual_map,100,high,Pharmaceutical ethanol
+CARBOMER,9003-01-4,2723949,manual_map,100,high,Crosslinked polyacrylic acid
+TRICLOCARBAN,101-20-2,7547,manual_map,100,high,
+CI 42650,1694-09-3,15558614,manual_map,100,high,Violet 23
+SODIUM LAURETH SULFATE,9004-82-4,23665763,manual_map,100,high,
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,manual_map,100,high,
+COCAMIDE DEA,61791-31-9,8053426,manual_map,100,high,
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,manual_map,100,high,Lamesoft PO 65
+METHYLCHLOROISOTHIAZOLINONE (AND) METHYLISOTHIAZOLINONE,26172-55-4,57482,manual_map,100,high,Kathon CG
+PARFUM,,,manual_map,100,high,
+CI 42051 / CI 42650 / CI 42090,,,manual_map,100,high,Lavender shade — color blend
+CI 42051,3536-49-0,77073,manual_map,100,high,Patent Blue V E131
+CI 42053,4180-46-5,6379,manual_map,100,high,Vert fixe 6B
+SODIUM LAURETH SULFATE,9004-82-4,23665763,manual_map,100,high,
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,manual_map,100,high,
+COCO-GLUCOSIDE (AND) GLYCERYL OLEATE,141464-42-8,16136216,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+METHYLCHLOROISOTHIAZOLINONE (AND) METHYLISOTHIAZOLINONE,26172-55-4,57482,manual_map,100,high,Kathon CG variant
+COCAMIDOPROPYL BETAINE,61789-40-0,24769760,manual_map,100,high,
+PANTHENOL,81-13-0,131204,manual_map,100,high,
+OPACIFIER (UNSPECIFIED),,,manual_map,100,high,OCR typo of opacifiant
+PARFUM,,,manual_map,100,high,
+TRIETHANOLAMINE,102-71-6,7618,manual_map,100,high,TEA 85%
+LANOLIN,8006-54-0,11970101,manual_map,100,high,
+CETYL ALCOHOL,36653-82-4,2682496,manual_map,100,high,Lorol C16 = cetyl alcohol
+SODIUM METHYLPARABEN,5026-62-0,12270,manual_map,100,high,POB = p-hydroxybenzoate
+PARFUM,,,manual_map,100,high,
+PANTHENOL,81-13-0,131204,manual_map,100,high,D-Panthenol = Provitamin B5
+PARFUM,,,manual_map,100,high,
+ALCOHOL DENAT.,64-17-5,702,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+ALCOHOL DENAT.,64-17-5,702,manual_map,100,high,
+PARFUM,,,manual_map,100,high,Lavender fragrance note
+PARFUM,,,manual_map,100,high,Fougère fragrance note
+PARFUM,,,manual_map,100,high,Fresh fragrance note
+PARFUM,,,manual_map,100,high,
+PARFUM,,,manual_map,100,high,Lemon fragrance note
+PARFUM,,,manual_map,100,high,Navy fragrance note
+PARFUM,,,manual_map,100,high,
+PARFUM,,,manual_map,100,high,
+CELLULOSE GUM,9000-11-7,6420601,manual_map,100,high,CMC
+SODIUM SACCHARIN,128-44-9 / 6155-57-3,,fuzzy_cosing,82.1,medium,fuzzy matched 'saccharimante de sodium' -> 'SODIUM SACCHARIN'
+HYDRATED SILICA,7699-41-4,6124190,manual_map,100,high,Sident 22S abrasive silica
+SODIUM MONOFLUOROPHOSPHATE,10163-15-2,24948,manual_map,100,high,
+HYDRATED SILICA,7699-41-4,6124190,manual_map,100,high,Sident 9 thickening silica
+CI 42051,3536-49-0,77073,manual_map,100,high,Patent Blue V
+CELLULOSE GUM,9000-11-7,6420601,manual_map,100,high,CMC
+ALLANTOIN,97-59-6,204,manual_map,100,high,
+SODIUM FLUORIDE,7681-49-4,5284567,manual_map,100,high,
+TOOTHPASTE FLAVOR,,,manual_map,100,high,Proprietary dental flavor
+TRIETHANOLAMINE,102-71-6,7618,manual_map,100,high,TEA 85%
+OXYQUINOLINE SULFATE,134-31-6,517000,manual_map,100,high,
+COCAMIDE DEA,61791-31-9,9993,manual_map,100,high,COD = Cocodiethanolamide / Cocamide DEA
+GLYCOL DISTEARATE,627-83-8,12497,manual_map,100,high,Nacron = glycol distearate opacifier
+SODIUM HYDROXIDE,1310-73-2,14798,manual_map,100,high,Caustic soda pure
+BUTOXYETHANOL,111-76-2,8057,manual_map,100,high,Butyl glycol = Butyl cellosolve
+SODIUM HYDROXIDE,1310-73-2,14798,manual_map,100,high,NaOH 100%
+TETRASODIUM ETIDRONATE,3794-83-0,20452,manual_map,100,high,Sodium phosphonate corrosion inhibitor
+PARFUM,,,manual_map,100,high,Fragrance blend
+CI 45410,632-69-9,32343,manual_map,100,high,Fluorescent rose colorant
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+WATER/SOLVENT,,,skipped_solvent,100,high,water/solvent
+SODIUM HYDROXIDE,1310-73-2,14798,manual_map,100,high,Caustic soda granules
+PARFUM,,,manual_map,100,high,Fragrance blend
+CI 60725,81-48-1,6680,manual_map,100,high,CI 60725 with fragrance label
+CI 42051,3536-49-0,77073,manual_map,100,high,Patent Blue V
+CI 45410,632-69-9,32343,manual_map,100,high,Rose bengal / Acid Red 94
+PARFUM,,,manual_map,100,high,Fragrance blend
+CI 19140,1934-21-0,164825,manual_map,100,high,Tartrazine
+CI 60725,81-48-1,6680,manual_map,100,high,Disperse Violet 1
+CI 16255,2611-82-7,17466,manual_map,100,high,Ponceau 4R
+SODIUM HYPOCHLORITE,7681-52-9,23665746,manual_map,100,high,guillemet delimiters
+COCAMIDOPROPYL BETAINE,61789-40-0,3080820,manual_map,100,high,Ninox = CAPB amphoteric
+SODIUM DODECYLBENZENESULFONATE,25155-30-0,23665752,manual_map,100,high,Sécosyl = LAS
+SODIUM HYDROXIDE,1310-73-2,14798,manual_map,100,high,NaOH pure
+SODIUM HYPOCHLORITE,7681-52-9,23665746,manual_map,100,high,guillemet delimiters
+SODIUM HYDROXIDE,1310-73-2,14798,manual_map,100,high,NaOH 100%
+PARFUM,,,manual_map,100,high,Fragrance base Tche-Hi
+PARFUM,,,manual_map,100,high,Fragrance base Nessma
+PARFUM,,,manual_map,100,high,Fragrance base Darky
+SULFURIC ACID,7664-93-9,1118,manual_map,100,high,
+WAX (UNSPECIFIED),,,manual_map,100,high,Generic wax class from composition list
+SOLVENT (UNSPECIFIED),,,manual_map,100,high,Generic solvent
+EMULSIFYING AGENT (UNSPECIFIED),,,manual_map,100,high,Generic emulsifier

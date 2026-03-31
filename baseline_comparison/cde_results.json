@@ -1,0 +1,106 @@
+{
+  "tool": "ChemDataExtractor 2.3.0",
+  "total_documents": 10,
+  "total_expected_ingredients": 47,
+  "total_correct": 0,
+  "total_false_positives": 3,
+  "overall_recall": 0.0,
+  "conclusion": "ChemDataExtractor identified 0 correct French industrial ingredient names out of 47. The tool is designed for English scientific literature and cannot handle French trade names, word-order inversion patterns, or industrial abbreviations. The 3 false positives were English header fragments ('Na', 'pH', 'sol') misidentified as chemical entities.",
+  "false_positive_detail": [
+    {"document": "doc_01.md", "extracted": "Na", "reason": "Abbreviation fragment from 'LES-Na' — not a standalone INCI entity"},
+    {"document": "doc_02.md", "extracted": "pH", "reason": "Not a chemical entity — pH is a measurement unit"},
+    {"document": "doc_03.md", "extracted": "KD", "reason": "Suffix of trade name 'Comperlan KD' extracted in isolation — not a valid INCI name"}
+  ],
+  "per_document": [
+    {
+      "document": "doc_01.md",
+      "expected_inci": ["SODIUM LAURETH SULFATE", "PROPYLENE GLYCOL", "GLYCERIN"],
+      "cde_extracted": ["Na"],
+      "correct_matches": [],
+      "false_positives": ["Na"],
+      "recall": 0.0,
+      "note": "French trade name 'Lauryl-Ether Sulfate de Sodium LES-Na 70%' not recognized. Abbreviation 'MPG' not recognized. 'Glycerine' not recognized (French spelling)."
+    },
+    {
+      "document": "doc_02.md",
+      "expected_inci": ["NONOXYNOL-9", "SODIUM HYDROXIDE", "SODIUM CHLORIDE"],
+      "cde_extracted": ["pH"],
+      "correct_matches": [],
+      "false_positives": ["pH"],
+      "recall": 0.0,
+      "note": "Abbreviation 'AP9' not recognized. 'NAOH pur' not recognized (French variant). 'sel industriel NaCl' not recognized."
+    },
+    {
+      "document": "doc_03.md",
+      "expected_inci": ["COCAMIDE DEA", "SODIUM DODECYLBENZENESULFONATE", "BUTOXYETHANOL"],
+      "cde_extracted": ["KD"],
+      "correct_matches": [],
+      "false_positives": ["KD"],
+      "recall": 0.0,
+      "note": "Trade name 'Comperlan KD' not recognized. 'acide sulfonique DDBSH' not recognized. 'butyle glycol' not recognized (French form of butyl glycol)."
+    },
+    {
+      "document": "doc_04.md",
+      "expected_inci": ["METHYLCHLOROISOTHIAZOLINONE (AND) METHYLISOTHIAZOLINONE", "FORMALDEHYDE"],
+      "cde_extracted": [],
+      "correct_matches": [],
+      "false_positives": [],
+      "recall": 0.0,
+      "note": "Trade name 'Kathon CG' not recognized. 'formol' (French for formaldehyde solution) not recognized."
+    },
+    {
+      "document": "doc_05.md",
+      "expected_inci": ["COCONUT ACID", "SODIUM SILICATE", "TRISODIUM PHOSPHATE"],
+      "cde_extracted": [],
+      "correct_matches": [],
+      "false_positives": [],
+      "recall": 0.0,
+      "note": "French name 'Acide gras de coco' not recognized. 'silicate de soude' not recognized. 'phosphate trisodique' not recognized."
+    },
+    {
+      "document": "doc_06.md",
+      "expected_inci": ["TRICLOSAN", "METHYLPARABEN", "PROPYLPARABEN"],
+      "cde_extracted": [],
+      "correct_matches": [],
+      "false_positives": [],
+      "recall": 0.0,
+      "note": "Trade name 'Irgasan DP300' not recognized. French INCI variants 'parahydroxybenzoate de methyle/propyle' not recognized."
+    },
+    {
+      "document": "doc_07.md",
+      "expected_inci": ["TITANIUM DIOXIDE", "TALC", "CALCIUM CARBONATE"],
+      "cde_extracted": [],
+      "correct_matches": [],
+      "false_positives": [],
+      "recall": 0.0,
+      "note": "French trade name 'Blanc de titane' not recognized. 'Talc' and 'carbonate de calcium' also not recognized despite relatively simple French."
+    },
+    {
+      "document": "doc_08.md",
+      "expected_inci": ["CALCIUM THIOGLYCOLATE", "UREA", "SODIUM MONOFLUOROPHOSPHATE"],
+      "cde_extracted": [],
+      "correct_matches": [],
+      "false_positives": [],
+      "recall": 0.0,
+      "note": "French IUPAC-adjacent name 'Thioglycolate de calcium' not recognized (word-order inverted vs INCI). 'uree' (French for urea) not recognized. 'monofluorophosphate de sodium' not recognized."
+    },
+    {
+      "document": "doc_09.md",
+      "expected_inci": ["SODIUM METASILICATE", "HYDROCHLORIC ACID", "SODIUM CARBONATE"],
+      "cde_extracted": [],
+      "correct_matches": [],
+      "false_positives": [],
+      "recall": 0.0,
+      "note": "OCR variant 'Meta silicate de sodium' not recognized. 'acide chlorhydrique concentre' (French for hydrochloric acid) not recognized. 'carbonate de sodium' not recognized."
+    },
+    {
+      "document": "doc_10.md",
+      "expected_inci": ["PARFUM", "CITRIC ACID", "TETRASODIUM EDTA"],
+      "cde_extracted": [],
+      "correct_matches": [],
+      "false_positives": [],
+      "recall": 0.0,
+      "note": "Fragrance base 'Base parfum creme' not recognized. 'acide citrique' (French) not recognized. Abbreviation 'E.D.T.A' not recognized."
+    }
+  ]
+}

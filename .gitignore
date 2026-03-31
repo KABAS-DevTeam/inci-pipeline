@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment / secrets
+.env
+.env.local
+*.key
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# MLflow
+mlruns/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large files (not needed for reproducibility)
+*.parquet.gz
+
+# Proprietary data — never commit
+rapport3/
+*formulas_labeled*
+*formulas_raw*
+*formula_ingredients*
+*raw_ingredient_names*

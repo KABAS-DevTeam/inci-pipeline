@@ -1,0 +1,42 @@
+# INCI Pipeline — Python 3.11+
+# Install: pip install -r requirements.txt
+
+# Core chemistry
+rdkit-pypi>=2023.9.5
+
+# Molecular descriptors
+# Note: the original mordred package does not support Python 3.11+.
+# Use the community-maintained fork: pip install mordredcommunity
+mordredcommunity>=1.2.0
+
+# PubChem API
+pubchempy>=1.0.4
+
+# HTTP requests
+requests>=2.31.0
+tqdm>=4.65.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=14.0.0
+
+# Fuzzy string matching (INCI normalization Stage B)
+rapidfuzz>=3.5.0
+
+# ML / descriptor analysis
+scikit-learn>=1.3.0
+
+# Visualization (figures)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Experiment tracking
+mlflow>=2.9.0
+
+# LLM fallback (Stage C — optional, only needed if Stage 0+A+B is insufficient)
+# Install whichever LLM SDK you use; the pipeline uses the Anthropic SDK by default
+anthropic>=0.20.0
+
+# Environment variables (for LLM API key)
+python-dotenv>=1.0.0
